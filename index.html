@@ -4,116 +4,56 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>书籍数据展示</title>
+    <title>图书数据平台</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f9;
             margin: 0;
-            padding: 0;
-        }
-
-        header {
-            background-color: #4CAF50;
-            color: white;
-            padding: 10px 20px;
-            text-align: center;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(to right, #83a4d4, #b6fbff);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
         }
 
         h1 {
-            margin: 0;
+            font-size: 2.5rem;
+            color: #fff;
+            margin-bottom: 40px;
         }
 
-        .container {
-            padding: 20px;
+        .button-group {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
         }
 
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-top: 20px;
-        }
-
-        table,
-        th,
-        td {
-            border: 1px solid #ddd;
-        }
-
-        th,
-        td {
-            padding: 8px;
-            text-align: center;
-        }
-
-        th {
-            background-color: #f2f2f2;
-        }
-
-        .footer {
-            background-color: #4CAF50;
+        .nav-button {
+            padding: 15px 30px;
+            font-size: 1rem;
             color: white;
-            text-align: center;
-            padding: 10px;
-            position: fixed;
-            width: 100%;
-            bottom: 0;
+            background-color: #4CAF50;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+            text-decoration: none;
+        }
+
+        .nav-button:hover {
+            background-color: #388e3c;
         }
     </style>
 </head>
 
 <body>
-
-    <header>
-        <h1>书籍数据展示</h1>
-    </header>
-
-    <div class="container">
-        <h2>书籍信息</h2>
-
-        <!-- 数据展示表格 -->
-        <table id="booksTable">
-            <thead>
-                <tr>
-                    <th>书名</th>
-                    <th>作者</th>
-                    <th>价格 (USD)</th>
-                    <th>评分</th>
-                    <th>评分人数</th>
-                </tr>
-            </thead>
-            <tbody>
-                <!-- 数据行将在这里通过 JavaScript 动态加载 -->
-            </tbody>
-        </table>
+    <h1>📚 图书数据平台</h1>
+    <div class="button-group">
+        <a href="books.html" class="nav-button">书籍列表</a>
+        <a href="charts.html" class="nav-button">数据分析图表</a>
     </div>
-
-    <footer class="footer">
-        <p>© 2025 书籍数据展示. All rights reserved.</p>
-    </footer>
-
-    <script>
-        // 加载 JSON 数据并显示到表格中
-        fetch('books_data.json')
-            .then(response => response.json())
-            .then(data => {
-                const tableBody = document.getElementById('booksTable').getElementsByTagName('tbody')[0];
-                data.forEach(book => {
-                    const row = tableBody.insertRow();
-                    row.innerHTML = `
-                    <td>${book.title}</td>
-                    <td>${book.author}</td>
-                    <td>${book.price}</td>
-                    <td>${book.rating}</td>
-                    <td>${book.num_ratings}</td>
-                `;
-                });
-            })
-            .catch(error => {
-                console.error("加载数据时出错:", error);
-            });
-    </script>
-
 </body>
 
 </html>

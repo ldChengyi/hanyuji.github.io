@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>书籍列表</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f0f4f8;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 15px 20px;
+            text-align: center;
+        }
+
+        .container {
+            padding: 20px;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+            background-color: white;
+        }
+
+        th,
+        td {
+            padding: 10px;
+            border: 1px solid #ccc;
+            text-align: center;
+        }
+
+        th {
+            background-color: #f9f9f9;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        footer {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            margin-top: 40px;
+        }
+
+        a.home-link {
+            display: inline-block;
+            margin-top: 10px;
+            padding: 8px 16px;
+            background-color: #4CAF50;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+
+        a.home-link:hover {
+            background-color: #388e3c;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>📚 书籍数据列表</h1>
+    </header>
+
+    <div class="container">
+        <a href="index.html" class="home-link">返回主页</a>
+
+        <h2>书籍信息</h2>
+
+        <table id="booksTable">
+            <thead>
+                <tr>
+                    <th>书名</th>
+                    <th>作者</th>
+                    <th>价格 (USD)</th>
+                    <th>评分</th>
+                    <th>评分人数</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- 数据将通过 JS 动态插入 -->
+            </tbody>
+        </table>
+    </div>
+
+    <footer>
+        <p>© 2025 图书数据展示平台</p>
+    </footer>
+
+    <script>
+        // 从 books_data.json 加载数据
+        fetch('books_data.json')
+            .then(response => response.json())
+            .then(data => {
+                const tbody = document.querySelector('#booksTable tbody');
+                data.forEach(book => {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                        <td>${book.title || ""}</td>
+                        <td>${book.author || ""}</td>
+                        <td>${book.price || ""}</td>
+                        <td>${book.rating || ""}</td>
+                        <td>${book.numRatings || ""}</td>
+                    `;
+                    tbody.appendChild(row);
+                });
+            })
+            .catch(err => {
+                console.error('加载书籍数据失败:', err);
+            });
+    </script>
+
+</body>
+
+</html>

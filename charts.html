@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta charset="UTF-8">
+    <title>书籍数据图表</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Chart.js CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f8fb;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 15px 20px;
+            text-align: center;
+        }
+
+        .container {
+            padding: 20px;
+        }
+
+        .chart-container {
+            margin-bottom: 40px;
+            background-color: white;
+            padding: 15px;
+            border-radius: 10px;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        canvas {
+            width: 100% !important;
+            max-width: 800px;
+            margin: auto;
+        }
+
+        footer {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+
+        .home-link {
+            display: inline-block;
+            margin-bottom: 20px;
+            padding: 8px 16px;
+            background-color: #4CAF50;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+
+        .home-link:hover {
+            background-color: #388e3c;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>📊 书籍数据分析图表</h1>
+    </header>
+
+    <div class="container">
+        <a href="index.html" class="home-link">返回主页</a>
+
+        <div class="chart-container">
+            <h3>评分分布</h3>
+            <canvas id="ratingChart"></canvas>
+        </div>
+
+        <div class="chart-container">
+            <h3>价格分布</h3>
+            <canvas id="priceChart"></canvas>
+        </div>
+
+        <div class="chart-container">
+            <h3>评分人数分布</h3>
+            <canvas id="numRatingsChart"></canvas>
+        </div>
+    </div>
+
+    <footer>
+        <p>© 2025 图书数据展示平台</p>
+    </footer>
+
+    <script>
+        fetch('books_data.json')
+            .then(res => res.json())
+            .then(data => {
+                // 数据清洗
+                const ratings = data.map(d => parseFloat(d.rating)).filter(n => !isNaN(n));
+                const prices = data.map(d => parseFloat(d.price)).filter(n => !isNaN(n));
+                const numRatings = data.map(d => parseInt(d.numRatings)).filter(n => !isNaN(n));
+
+                // 构建直方图函数
+                function createHistogram(ctx, dataArray, label, color) {
+                    const bins = 20;
+                    const max = Math.max(...dataArray);
+                    const min = Math.min(...dataArray);
+                    const binSize = (max - min) / bins;
+
+                    const labels = [];
+                    const counts = new Array(bins).fill(0);
+
+                    dataArray.forEach(value => {
+                        const index = Math.min(Math.floor((value - min) / binSize), bins - 1);
+                        counts[index]++;
+                    });
+
+                    for (let i = 0; i < bins; i++) {
+                        const rangeStart = (min + i * binSize).toFixed(1);
+                        const rangeEnd = (min + (i + 1) * binSize).toFixed(1);
+                        labels.push(`${rangeStart}~${rangeEnd}`);
+                    }
+
+                    new Chart(ctx, {
+                        type: 'bar',
+                        data: {
+                            labels: labels,
+                            datasets: [{
+                                label: label,
+                                data: counts,
+                                backgroundColor: color
+                            }]
+                        },
+                        options: {
+                            responsive: true,
+                            scales: {
+                                x: {
+                                    ticks: {
+                                        maxRotation: 60,
+                                        minRotation: 45
+                                    }
+                                },
+                                y: {
+                                    beginAtZero: true
+                                }
+                            }
+                        }
+                    });
+                }
+
+                // 创建三个图表
+                createHistogram(document.getElementById('ratingChart'), ratings, '评分分布', '#42a5f5');
+                createHistogram(document.getElementById('priceChart'), prices, '价格分布', '#66bb6a');
+                createHistogram(document.getElementById('numRatingsChart'), numRatings, '评分人数分布', '#ffa726');
+            })
+            .catch(error => console.error("加载数据失败:", error));
+    </script>
+
+</body>
+
+</html>
