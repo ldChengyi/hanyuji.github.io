@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>书籍数据展示</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+        }
+
+        h1 {
+            margin: 0;
+        }
+
+        .container {
+            padding: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        table,
+        th,
+        td {
+            border: 1px solid #ddd;
+        }
+
+        th,
+        td {
+            padding: 8px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        .footer {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>书籍数据展示</h1>
+    </header>
+
+    <div class="container">
+        <h2>书籍信息</h2>
+
+        <!-- 数据展示表格 -->
+        <table>
+            <thead>
+                <tr>
+                    <th>书名</th>
+                    <th>价格 (USD)</th>
+                    <th>评分</th>
+                    <th>评分人数</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- 以下是数据行，可以根据你的数据动态生成 -->
+                <tr>
+                    <td>书籍1</td>
+                    <td>29.99</td>
+                    <td>4.5</td>
+                    <td>1200</td>
+                </tr>
+                <tr>
+                    <td>书籍2</td>
+                    <td>19.99</td>
+                    <td>4.2</td>
+                    <td>950</td>
+                </tr>
+                <tr>
+                    <td>书籍3</td>
+                    <td>15.00</td>
+                    <td>3.9</td>
+                    <td>850</td>
+                </tr>
+                <tr>
+                    <td>书籍4</td>
+                    <td>40.00</td>
+                    <td>4.7</td>
+                    <td>1500</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <footer class="footer">
+        <p>© 2025 书籍数据展示. All rights reserved.</p>
+    </footer>
+
+</body>
+
+</html>
