@@ -72,41 +72,18 @@
         <h2>书籍信息</h2>
 
         <!-- 数据展示表格 -->
-        <table>
+        <table id="booksTable">
             <thead>
                 <tr>
                     <th>书名</th>
+                    <th>作者</th>
                     <th>价格 (USD)</th>
                     <th>评分</th>
                     <th>评分人数</th>
                 </tr>
             </thead>
             <tbody>
-                <!-- 以下是数据行，可以根据你的数据动态生成 -->
-                <tr>
-                    <td>书籍1</td>
-                    <td>29.99</td>
-                    <td>4.5</td>
-                    <td>1200</td>
-                </tr>
-                <tr>
-                    <td>书籍2</td>
-                    <td>19.99</td>
-                    <td>4.2</td>
-                    <td>950</td>
-                </tr>
-                <tr>
-                    <td>书籍3</td>
-                    <td>15.00</td>
-                    <td>3.9</td>
-                    <td>850</td>
-                </tr>
-                <tr>
-                    <td>书籍4</td>
-                    <td>40.00</td>
-                    <td>4.7</td>
-                    <td>1500</td>
-                </tr>
+                <!-- 数据行将在这里通过 JavaScript 动态加载 -->
             </tbody>
         </table>
     </div>
@@ -114,6 +91,28 @@
     <footer class="footer">
         <p>© 2025 书籍数据展示. All rights reserved.</p>
     </footer>
+
+    <script>
+        // 加载 JSON 数据并显示到表格中
+        fetch('books_data.json')
+            .then(response => response.json())
+            .then(data => {
+                const tableBody = document.getElementById('booksTable').getElementsByTagName('tbody')[0];
+                data.forEach(book => {
+                    const row = tableBody.insertRow();
+                    row.innerHTML = `
+                    <td>${book.title}</td>
+                    <td>${book.author}</td>
+                    <td>${book.price}</td>
+                    <td>${book.rating}</td>
+                    <td>${book.num_ratings}</td>
+                `;
+                });
+            })
+            .catch(error => {
+                console.error("加载数据时出错:", error);
+            });
+    </script>
 
 </body>
 

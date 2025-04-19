@@ -1,0 +1,4002 @@
+[
+    {
+        "title": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "language": "English",
+        "price": 5.09,
+        "rating": 4.33,
+        "numRatings": 6376780
+    },
+    {
+        "title": "Harry Potter and the Order of the Phoenix",
+        "author": "J.K. Rowling, Mary GrandPré (Illustrator)",
+        "language": "English",
+        "price": 7.38,
+        "rating": 4.5,
+        "numRatings": 2507623
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "language": "English",
+        "price": "",
+        "rating": 4.28,
+        "numRatings": 4501075
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen, Anna Quindlen (Introduction)",
+        "language": "English",
+        "price": "",
+        "rating": 4.26,
+        "numRatings": 2998241
+    },
+    {
+        "title": "Twilight",
+        "author": "Stephenie Meyer",
+        "language": "English",
+        "price": 2.1,
+        "rating": 3.6,
+        "numRatings": 4964519
+    },
+    {
+        "title": "The Book Thief",
+        "author": "Markus Zusak (Goodreads Author)",
+        "language": "English",
+        "price": 3.8,
+        "rating": 4.37,
+        "numRatings": 1834276
+    },
+    {
+        "title": "Animal Farm",
+        "author": "George Orwell, Russell Baker (Preface), C.M. Woodhouse (Introduction)",
+        "language": "English",
+        "price": 4.42,
+        "rating": 3.95,
+        "numRatings": 2740713
+    },
+    {
+        "title": "The Chronicles of Narnia",
+        "author": "C.S. Lewis, Pauline Baynes (Illustrator)",
+        "language": "English",
+        "price": "",
+        "rating": 4.26,
+        "numRatings": 517740
+    },
+    {
+        "title": "J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "language": "English",
+        "price": 21.15,
+        "rating": 4.6,
+        "numRatings": 110146
+    },
+    {
+        "title": "Gone with the Wind",
+        "author": "Margaret Mitchell",
+        "language": "English",
+        "price": 5.58,
+        "rating": 4.3,
+        "numRatings": 1074620
+    },
+    {
+        "title": "The Fault in Our Stars",
+        "author": "John Green (Goodreads Author)",
+        "language": "English",
+        "price": "",
+        "rating": 4.21,
+        "numRatings": 3550714
+    },
+    {
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "language": "English",
+        "price": "",
+        "rating": 4.22,
+        "numRatings": 1436325
+    },
+    {
+        "title": "The Giving Tree",
+        "author": "Shel Silverstein",
+        "language": "English",
+        "price": 4.87,
+        "rating": 4.37,
+        "numRatings": 905731
+    },
+    {
+        "title": "Wuthering Heights",
+        "author": "Emily Brontë, Richard J. Dunn (Editor), David Timson (Narrator), Charlotte Brontë (Commentary), Robert Heindel (Illustrator)",
+        "language": "English",
+        "price": 2.73,
+        "rating": 3.86,
+        "numRatings": 1342664
+    },
+    {
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown (Goodreads Author)",
+        "language": "English",
+        "price": "",
+        "rating": 3.86,
+        "numRatings": 1933446
+    },
+    {
+        "title": "Memoirs of a Geisha",
+        "author": "Arthur Golden",
+        "language": "English",
+        "price": 2.76,
+        "rating": 4.12,
+        "numRatings": 1717312
+    },
+    {
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde, Jeffrey Eugenides (Introduction)",
+        "language": "English",
+        "price": "",
+        "rating": 4.08,
+        "numRatings": 966196
+    },
+    {
+        "title": "Alice's Adventures in Wonderland & Through the Looking-Glass",
+        "author": "Lewis Carroll, John Tenniel (Illustrator), Martin Gardner (Introduction)",
+        "language": "English",
+        "price": 3.07,
+        "rating": 4.06,
+        "numRatings": 458299
+    },
+    {
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë, Michael Mason (Editor), Barnett Freedman (Illustrator)",
+        "language": "English",
+        "price": 5.46,
+        "rating": 4.13,
+        "numRatings": 1624682
+    },
+    {
+        "title": "Les Misérables",
+        "author": "Victor Hugo, Lee Fahnestock (Translator), Norman MacAfee (Translator)",
+        "language": "English",
+        "price": "",
+        "rating": 4.18,
+        "numRatings": 682793
+    },
+    {
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "language": "English",
+        "price": "",
+        "rating": 3.99,
+        "numRatings": 1680139
+    },
+    {
+        "title": "Divergent",
+        "author": "Veronica Roth (Goodreads Author)",
+        "language": "English",
+        "price": 0.88,
+        "rating": 4.19,
+        "numRatings": 2906258
+    },
+    {
+        "title": "Lord of the Flies",
+        "author": "William Golding",
+        "language": "English",
+        "price": 1.89,
+        "rating": 3.69,
+        "numRatings": 2263259
+    },
+    {
+        "title": "Romeo and Juliet",
+        "author": "William Shakespeare, Paul Werstine (Editor), Barbara A. Mowat (Editor), Paavo Emil Cajander (Translator)",
+        "language": "English",
+        "price": 6.79,
+        "rating": 3.75,
+        "numRatings": 2055102
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho (Goodreads Author), Alan R. Clarke (Translator), James Noel Smith (Illustrator)",
+        "language": "English",
+        "price": 13.22,
+        "rating": 3.88,
+        "numRatings": 2107732
+    },
+    {
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoyevsky, David McDuff (Translator)",
+        "language": "English",
+        "price": 18.85,
+        "rating": 4.22,
+        "numRatings": 626897
+    },
+    {
+        "title": "The Perks of Being a Wallflower",
+        "author": "Stephen Chbosky",
+        "language": "English",
+        "price": "",
+        "rating": 4.2,
+        "numRatings": 1250155
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald, Francis Scott Fitzgerald",
+        "language": "English",
+        "price": "",
+        "rating": 3.92,
+        "numRatings": 3775504
+    },
+    {
+        "title": "City of Bones",
+        "author": "Cassandra Clare (Goodreads Author)",
+        "language": "English",
+        "price": 6.29,
+        "rating": 4.1,
+        "numRatings": 1617465
+    },
+    {
+        "title": "Ender's Game",
+        "author": "Orson Scott Card, Stefan Rudnicki (Narrator), Harlan Ellison (Narrator)",
+        "language": "English",
+        "price": 4.6,
+        "rating": 4.3,
+        "numRatings": 1131303
+    },
+    {
+        "title": "The Help",
+        "author": "Kathryn Stockett (Goodreads Author)",
+        "language": "English",
+        "price": "",
+        "rating": 4.47,
+        "numRatings": 2164011
+    },
+    {
+        "title": "Anne of Green Gables",
+        "author": "L.M. Montgomery",
+        "language": "English",
+        "price": 6.07,
+        "rating": 4.26,
+        "numRatings": 727685
+    },
+    {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling, Mary GrandPré (Illustrator)",
+        "language": "English",
+        "price": "",
+        "rating": 4.47,
+        "numRatings": 7048471
+    },
+    {
+        "title": "The Little Prince",
+        "author": "Antoine de Saint-Exupéry, Richard Howard (Translator), Ivan Minatti (Translator), Nguyễn Thành Vũ (Illustrator)",
+        "language": "English",
+        "price": "",
+        "rating": 4.31,
+        "numRatings": 1363048
+    },
+    {
+        "title": "Charlotte's Web",
+        "author": "E.B. White, Garth Williams (Illustrator), Rosemary Wells (Illustrations)",
+        "language": "English",
+        "price": 6.15,
+        "rating": 4.17,
+        "numRatings": 1417302
+    },
+    {
+        "title": "Of Mice and Men",
+        "author": "John Steinbeck",
+        "language": "English",
+        "price": 5.75,
+        "rating": 3.88,
+        "numRatings": 1942168
+    },
+    {
+        "title": "The Time Traveler's Wife",
+        "author": "Audrey Niffenegger (Goodreads Author)",
+        "language": "English",
+        "price": "",
+        "rating": 3.97,
+        "numRatings": 1573857
+    },
+    {
+        "title": "Dracula",
+        "author": "Bram Stoker, Nina Auerbach (Editor), David J. Skal (Editor)",
+        "language": "English",
+        "price": 4.55,
+        "rating": 4.0,
+        "numRatings": 938325
+    },
+    {
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "language": "English",
+        "price": 3.78,
+        "rating": 3.99,
+        "numRatings": 1441287
+    },
+    {
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel García Márquez, Gregory Rabassa (Translator)",
+        "language": "English",
+        "price": "",
+        "rating": 4.08,
+        "numRatings": 753470
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "language": "English",
+        "price": 2.6,
+        "rating": 3.81,
+        "numRatings": 2736523
+    },
+    {
+        "title": "The Princess Bride",
+        "author": "William Goldman",
+        "language": "English",
+        "price": 6.23,
+        "rating": 4.26,
+        "numRatings": 779597
+    },
+    {
+        "title": "The Lightning Thief",
+        "author": "Rick Riordan (Goodreads Author)",
+        "language": "English",
+        "price": 1.79,
+        "rating": 4.26,
+        "numRatings": 1992300
+    },
+    {
+        "title": "The Secret Garden",
+        "author": "Frances Hodgson Burnett",
+        "language": "English",
+        "price": 3.33,
+        "rating": 4.13,
+        "numRatings": 891374
+    },
+    {
+        "title": "A Thousand Splendid Suns",
+        "author": "Khaled Hosseini (Goodreads Author)",
+        "language": "English",
+        "price": 1.16,
+        "rating": 4.38,
+        "numRatings": 1151288
+    },
+    {
+        "title": "A Wrinkle in Time",
+        "author": "Madeleine L'Engle",
+        "language": "English",
+        "price": 4.8,
+        "rating": 4.0,
+        "numRatings": 1051535
+    },
+    {
+        "title": "A Game of Thrones",
+        "author": "George R.R. Martin",
+        "language": "English",
+        "price": 4.01,
+        "rating": 4.45,
+        "numRatings": 2003043
+    },
+    {
+        "title": "The Adventures of Huckleberry Finn",
+        "author": "Mark Twain, Guy Cardwell (Notes), John Seelye (Introduction), Walter Trier (Ilustrator)",
+        "language": "English",
+        "price": 6.99,
+        "rating": 3.82,
+        "numRatings": 1151767
+    },
+    {
+        "title": "The Lovely Bones",
+        "author": "Alice Sebold",
+        "language": "English",
+        "price": 1.91,
+        "rating": 3.82,
+        "numRatings": 2014401
+    },
+    {
+        "title": "The Outsiders",
+        "author": "S.E. Hinton (Goodreads Author)",
+        "language": "English",
+        "price": "",
+        "rating": 4.1,
+        "numRatings": 938150
+    },
+    {
+        "title": "Where the Wild Things Are",
+        "author": "Maurice Sendak",
+        "language": "English",
+        "price": 3.67,
+        "rating": 4.22,
+        "numRatings": 816934
+    },
+    {
+        "title": "Green Eggs and Ham",
+        "author": "Dr. Seuss",
+        "language": "English",
+        "price": 2.98,
+        "rating": 4.3,
+        "numRatings": 616631
+    },
+    {
+        "title": "The Odyssey",
+        "author": "Homer, Robert Fagles (Translator), Bernard Knox (Introduction)",
+        "language": "English",
+        "price": 3.65,
+        "rating": 3.77,
+        "numRatings": 861486
+    },
+    {
+        "title": "Life of Pi",
+        "author": "Yann Martel",
+        "language": "English",
+        "price": 2.86,
+        "rating": 3.91,
+        "numRatings": 1339076
+    },
+    {
+        "title": "A Tale of Two Cities",
+        "author": "Charles Dickens, Richard Maxwell (Editor/Introduction)",
+        "language": "English",
+        "price": 1.12,
+        "rating": 3.85,
+        "numRatings": 810000
+    },
+    {
+        "title": "Water for Elephants",
+        "author": "Sara Gruen (Goodreads Author)",
+        "language": "English",
+        "price": 3.46,
+        "rating": 4.09,
+        "numRatings": 1379584
+    },
+    {
+        "title": "Lolita",
+        "author": "Vladimir Nabokov, Craig Raine (Afterword)",
+        "language": "English",
+        "price": "",
+        "rating": 3.89,
+        "numRatings": 663069
+    },
+    {
+        "title": "Slaughterhouse-Five",
+        "author": "Kurt Vonnegut Jr.",
+        "language": "English",
+        "price": 8.5,
+        "rating": 4.08,
+        "numRatings": 1129210
+    },
+    {
+        "title": "Frankenstein: The 1818 Text",
+        "author": "Mary Wollstonecraft Shelley, Charlotte Gordon (Goodreads Author) (Introduction)",
+        "language": "English",
+        "price": 8.75,
+        "rating": 3.81,
+        "numRatings": 1162638
+    },
+    {
+        "title": "The Kite Runner",
+        "author": "Khaled Hosseini (Goodreads Author), Berliani M. Nugrahani (Translator)",
+        "language": "English",
+        "price": "",
+        "rating": 4.3,
+        "numRatings": 2424976
+    },
+    {
+        "title": "The Handmaid's Tale",
+        "author": "Margaret Atwood (Goodreads Author)",
+        "language": "English",
+        "price": "",
+        "rating": 4.11,
+        "numRatings": 1459245
+    },
+    {
+        "title": "The Giver",
+        "author": "Lois Lowry (Goodreads Author)",
+        "language": "English",
+        "price": 7.15,
+        "rating": 4.13,
+        "numRatings": 1785054
+    },
+    {
+        "title": "Catch-22",
+        "author": "Joseph Heller",
+        "language": "English",
+        "price": 3.32,
+        "rating": 3.98,
+        "numRatings": 723147
+    },
+    {
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "language": "English",
+        "price": 29.34,
+        "rating": 4.23,
+        "numRatings": 765785
+    },
+    {
+        "title": "The Pillars of the Earth",
+        "author": "Ken Follett (Goodreads Author)",
+        "language": "English",
+        "price": "",
+        "rating": 4.31,
+        "numRatings": 648793
+    },
+    {
+        "title": "The Stand",
+        "author": "Stephen King (Goodreads Author), Bernie Wrightson (Illustrator)",
+        "language": "English",
+        "price": 8.38,
+        "rating": 4.34,
+        "numRatings": 616021
+    },
+    {
+        "title": "The Adventures of Sherlock Holmes",
+        "author": "Arthur Conan Doyle",
+        "language": "English",
+        "price": "",
+        "rating": 4.3,
+        "numRatings": 243129
+    },
+    {
+        "title": "Watership Down",
+        "author": "Richard Adams",
+        "language": "English",
+        "price": 5.25,
+        "rating": 4.06,
+        "numRatings": 433754
+    },
+    {
+        "title": "Great Expectations",
+        "author": "Charles Dickens, Παυλίνα Παμπούδη (Translator), Marisa Sestino (Translator)",
+        "language": "English",
+        "price": 0.85,
+        "rating": 3.78,
+        "numRatings": 651506
+    },
+    {
+        "title": "Little Women",
+        "author": "Louisa May Alcott",
+        "language": "English",
+        "price": 5.51,
+        "rating": 4.09,
+        "numRatings": 1681583
+    },
+    {
+        "title": "The Bell Jar",
+        "author": "Sylvia Plath",
+        "language": "English",
+        "price": "",
+        "rating": 4.01,
+        "numRatings": 591175
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows",
+        "author": "J.K. Rowling",
+        "language": "English",
+        "price": 2.85,
+        "rating": 4.62,
+        "numRatings": 2811637
+    },
+    {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "author": "Ken Kesey",
+        "language": "English",
+        "price": "",
+        "rating": 4.19,
+        "numRatings": 630948
+    },
+    {
+        "title": "Anna Karenina",
+        "author": "Leo Tolstoy, Aylmer Maude (Translator), Lev Tolstoi, Louise Maude (Translator), George Gibian (Preface)",
+        "language": "English",
+        "price": "",
+        "rating": 4.05,
+        "numRatings": 681953
+    },
+    {
+        "title": "Outlander",
+        "author": "Diana Gabaldon (Goodreads Author)",
+        "language": "English",
+        "price": 5.98,
+        "rating": 4.23,
+        "numRatings": 824014
+    },
+    {
+        "title": "My Sister's Keeper",
+        "author": "Jodi Picoult (Goodreads Author)",
+        "language": "English",
+        "price": 2.76,
+        "rating": 4.08,
+        "numRatings": 1056676
+    },
+    {
+        "title": "Matilda",
+        "author": "Roald Dahl, Quentin Blake (Illustrator)",
+        "language": "English",
+        "price": 6.01,
+        "rating": 4.32,
+        "numRatings": 647667
+    },
+    {
+        "title": "The Fellowship of the Ring",
+        "author": "J.R.R. Tolkien",
+        "language": "English",
+        "price": "",
+        "rating": 4.36,
+        "numRatings": 2355237
+    },
+    {
+        "title": "The Girl with the Dragon Tattoo",
+        "author": "Stieg Larsson, Reg Keeland (Translator)",
+        "language": "English",
+        "price": "",
+        "rating": 4.14,
+        "numRatings": 2607860
+    },
+    {
+        "title": "Rebecca",
+        "author": "Daphne du Maurier",
+        "language": "English",
+        "price": "",
+        "rating": 4.23,
+        "numRatings": 450276
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "language": "English",
+        "price": "",
+        "rating": 4.19,
+        "numRatings": 3140442
+    },
+    {
+        "title": "The Color Purple",
+        "author": "Alice Walker",
+        "language": "English",
+        "price": 13.75,
+        "rating": 4.22,
+        "numRatings": 521200
+    },
+    {
+        "title": "A Tree Grows in Brooklyn",
+        "author": "Betty Smith",
+        "language": "English",
+        "price": 5.01,
+        "rating": 4.27,
+        "numRatings": 388454
+    },
+    {
+        "title": "A Clockwork Orange",
+        "author": "Anthony Burgess",
+        "language": "English",
+        "price": 13.05,
+        "rating": 3.99,
+        "numRatings": 601048
+    },
+    {
+        "title": "The Road",
+        "author": "Cormac McCarthy",
+        "language": "English",
+        "price": 6.83,
+        "rating": 3.97,
+        "numRatings": 716197
+    },
+    {
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoyevsky, Fyodor Dostoyevsky, Richard Pevear (Translator), Larissa Volokhonsky (Translator)",
+        "language": "English",
+        "price": 5.51,
+        "rating": 4.32,
+        "numRatings": 243271
+    },
+    {
+        "title": "Angela's Ashes",
+        "author": "Frank McCourt",
+        "language": "English",
+        "price": 2.76,
+        "rating": 4.11,
+        "numRatings": 539576
+    },
+    {
+        "title": "Vampire Academy",
+        "author": "Richelle Mead (Goodreads Author)",
+        "language": "English",
+        "price": 3.33,
+        "rating": 4.12,
+        "numRatings": 548959
+    },
+    {
+        "title": "Siddhartha",
+        "author": "Hermann Hesse, Hilda Rosner (Translator)",
+        "language": "English",
+        "price": "",
+        "rating": 4.03,
+        "numRatings": 582674
+    },
+    {
+        "title": "The Poisonwood Bible",
+        "author": "Barbara Kingsolver",
+        "language": "English",
+        "price": 4.12,
+        "rating": 4.06,
+        "numRatings": 658743
+    },
+    {
+        "title": "The Golden Compass",
+        "author": "Philip Pullman",
+        "language": "English",
+        "price": 1.61,
+        "rating": 3.99,
+        "numRatings": 1284131
+    },
+    {
+        "title": "Don Quixote",
+        "author": "Miguel de Cervantes Saavedra, John Rutherford (Translator), Roberto González Echevarría (Introduction)",
+        "language": "English",
+        "price": 9.04,
+        "rating": 3.88,
+        "numRatings": 209688
+    },
+    {
+        "title": "Atlas Shrugged",
+        "author": "Ayn Rand, Leonard Peikoff (Goodreads Author) (Introduction)",
+        "language": "English",
+        "price": 4.41,
+        "rating": 3.69,
+        "numRatings": 353814
+    },
+    {
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "author": "J.K. Rowling, Mary GrandPré (Illustrator)",
+        "language": "English",
+        "price": 5.94,
+        "rating": 4.57,
+        "numRatings": 2806471
+    },
+    {
+        "title": "The Old Man and the Sea",
+        "author": "Ernest Hemingway",
+        "language": "English",
+        "price": 15.63,
+        "rating": 3.78,
+        "numRatings": 831152
+    },
+    {
+        "title": "The Notebook",
+        "author": "Nicholas Sparks (Goodreads Author)",
+        "language": "English",
+        "price": "",
+        "rating": 4.11,
+        "numRatings": 1331152
+    },
+    {
+        "title": "Winnie-the-Pooh",
+        "author": "A.A. Milne, Ernest H. Shepard (Illustrator)",
+        "language": "English",
+        "price": 5.3,
+        "rating": 4.34,
+        "numRatings": 270388
+    },
+    {
+        "title": "The Complete Stories and Poems",
+        "author": "Edgar Allan Poe",
+        "language": "English",
+        "price": 5.27,
+        "rating": 4.38,
+        "numRatings": 220153
+    },
+    {
+        "title": "Interview with the Vampire",
+        "author": "Anne Rice",
+        "language": "English",
+        "price": 2.66,
+        "rating": 4.0,
+        "numRatings": 484530
+    },
+    {
+        "title": "A Prayer for Owen Meany",
+        "author": "John Irving (Goodreads Author)",
+        "language": "English",
+        "price": 2.86,
+        "rating": 4.23,
+        "numRatings": 285954
+    },
+    {
+        "title": "Moby-Dick or, the Whale",
+        "author": "Herman Melville, Andrew Delbanco (Introduction), Tom Quirk (Notes), Rockwell Kent (Illustrator)",
+        "language": "English",
+        "price": 1.87,
+        "rating": 3.51,
+        "numRatings": 479125
+    },
+    {
+        "title": "The Red Tent",
+        "author": "Anita Diamant (Goodreads Author)",
+        "language": "English",
+        "price": 5.26,
+        "rating": 4.18,
+        "numRatings": 520252
+    },
+    {
+        "title": "The Secret Life of Bees",
+        "author": "Sue Monk Kidd (Goodreads Author)",
+        "language": "English",
+        "price": 3.5,
+        "rating": 4.06,
+        "numRatings": 1116565
+    },
+    {
+        "title": "Harry Potter and the Goblet of Fire",
+        "author": "J.K. Rowling, Mary GrandPré (Illustrator)",
+        "language": "English",
+        "price": "",
+        "rating": 4.56,
+        "numRatings": 2594622
+    },
+    {
+        "title": "Clockwork Angel",
+        "author": "Cassandra Clare (Goodreads Author), Rita Sussekind (Translator)",
+        "language": "English",
+        "price": 4.62,
+        "rating": 4.32,
+        "numRatings": 666121
+    },
+    {
+        "title": "Harry Potter and the Half-Blood Prince",
+        "author": "J.K. Rowling",
+        "language": "English",
+        "price": "",
+        "rating": 4.57,
+        "numRatings": 2437658
+    },
+    {
+        "title": "And Then There Were None",
+        "author": "Agatha Christie",
+        "language": "English",
+        "price": 4.82,
+        "rating": 4.26,
+        "numRatings": 822061
+    },
+    {
+        "title": "Middlesex",
+        "author": "Jeffrey Eugenides",
+        "language": "English",
+        "price": 3.11,
+        "rating": 4.01,
+        "numRatings": 581175
+    },
+    {
+        "title": "The Stranger",
+        "author": "Albert Camus, Matthew Ward (Translator)",
+        "language": "English",
+        "price": "",
+        "rating": 3.98,
+        "numRatings": 706396
+    },
+    {
+        "title": "The Master and Margarita",
+        "author": "Mikhail Bulgakov, Katherine Tiernan O'Connor (Translator), Ellendea Proffer (Annotations and Afterword), Diana Lewis Burgin (Translator)",
+        "language": "English",
+        "price": 13.56,
+        "rating": 4.29,
+        "numRatings": 242684
+    },
+    {
+        "title": "The Name of the Wind",
+        "author": "Patrick Rothfuss (Goodreads Author)",
+        "language": "English",
+        "price": 9.36,
+        "rating": 4.53,
+        "numRatings": 715936
+    },
+    {
+        "title": "The Shining",
+        "author": "Stephen King (Goodreads Author)",
+        "language": "English",
+        "price": 7.59,
+        "rating": 4.23,
+        "numRatings": 1126760
+    },
+    {
+        "title": "The Adventures of Tom Sawyer",
+        "author": "Mark Twain, Guy Cardwell (Annotations), John Seelye (Introduction)",
+        "language": "English",
+        "price": 3.36,
+        "rating": 3.91,
+        "numRatings": 758171
+    },
+    {
+        "title": "Eragon",
+        "author": "Christopher Paolini (Goodreads Author)",
+        "language": "English",
+        "price": 2.86,
+        "rating": 3.9,
+        "numRatings": 1437124
+    },
+    {
+        "title": "Charlie and the Chocolate Factory",
+        "author": "Roald Dahl, Quentin Blake (Illustrations)",
+        "language": "English",
+        "price": 1.13,
+        "rating": 4.14,
+        "numRatings": 664710
+    },
+    {
+        "title": "Flowers for Algernon",
+        "author": "Daniel Keyes",
+        "language": "English",
+        "price": "",
+        "rating": 4.14,
+        "numRatings": 478318
+    },
+    {
+        "title": "On the Road",
+        "author": "Jack Kerouac",
+        "language": "English",
+        "price": 1.91,
+        "rating": 3.62,
+        "numRatings": 348767
+    },
+    {
+        "title": "The Metamorphosis",
+        "author": "Franz Kafka, Stanley Corngold (Translator), Mircea Ivănescu (Translator)",
+        "language": "English",
+        "price": "",
+        "rating": 3.82,
+        "numRatings": 643254
+    },
+    {
+        "title": "Looking for Alaska",
+        "author": "John Green (Goodreads Author)",
+        "language": "English",
+        "price": "",
+        "rating": 4.02,
+        "numRatings": 1113222
+    },
+    {
+        "title": "The Shadow of the Wind",
+        "author": "Carlos Ruiz Zafón, Lucia Graves (Translator)",
+        "language": "English",
+        "price": "",
+        "rating": 4.27,
+        "numRatings": 462182
+    },
+    {
+        "title": "The Curious Incident of the Dog in the Night-Time",
+        "author": "Mark Haddon",
+        "language": "English",
+        "price": 2.94,
+        "rating": 3.88,
+        "numRatings": 1191621
+    },
+    {
+        "title": "The Very Hungry Caterpillar",
+        "author": "Eric Carle",
+        "language": "English",
+        "price": 2.42,
+        "rating": 4.3,
+        "numRatings": 396110
+    },
+    {
+        "title": "Tuesdays with Morrie",
+        "author": "Mitch Albom (Goodreads Author)",
+        "language": "English",
+        "price": 3.27,
+        "rating": 4.11,
+        "numRatings": 782188
+    },
+    {
+        "title": "The Unbearable Lightness of Being",
+        "author": "Milan Kundera, Michael Henry Heim (Translator)",
+        "language": "English",
+        "price": 11.62,
+        "rating": 4.1,
+        "numRatings": 341660
+    },
+    {
+        "title": "The Name of the Rose",
+        "author": "Umberto Eco, William Weaver (Translator)",
+        "language": "English",
+        "price": 4.07,
+        "rating": 4.12,
+        "numRatings": 301153
+    },
+    {
+        "title": "Where the Red Fern Grows",
+        "author": "Wilson Rawls",
+        "language": "English",
+        "price": 5.4,
+        "rating": 4.08,
+        "numRatings": 342208
+    },
+    {
+        "title": "Harry Potter and the Chamber of Secrets",
+        "author": "J.K. Rowling, Mary GrandPré (Illustrator)",
+        "language": "English",
+        "price": 4.17,
+        "rating": 4.43,
+        "numRatings": 2725847
+    },
+    {
+        "title": "The Godfather",
+        "author": "Mario Puzo, Robert Thompson (Introduction), Peter Bart (Afterword)",
+        "language": "English",
+        "price": "",
+        "rating": 4.36,
+        "numRatings": 334837
+    },
+    {
+        "title": "The Scarlet Letter",
+        "author": "Nathaniel Hawthorne, Thomas E. Connolly (Annotations), Nina Baym (Introduction)",
+        "language": "English",
+        "price": 1.91,
+        "rating": 3.41,
+        "numRatings": 706272
+    },
+    {
+        "title": "In Cold Blood",
+        "author": "Truman Capote",
+        "language": "English",
+        "price": 6.58,
+        "rating": 4.07,
+        "numRatings": 529229
+    },
+    {
+        "title": "Fight Club",
+        "author": "Chuck Palahniuk (Goodreads Author)",
+        "language": "English",
+        "price": 10.16,
+        "rating": 4.19,
+        "numRatings": 498931
+    },
+    {
+        "title": "The Five People You Meet in Heaven",
+        "author": "Mitch Albom (Goodreads Author)",
+        "language": "English",
+        "price": 3.57,
+        "rating": 3.94,
+        "numRatings": 578095
+    },
+    {
+        "title": "Hush, Hush",
+        "author": "Becca Fitzpatrick (Goodreads Author)",
+        "language": "English",
+        "price": 2.55,
+        "rating": 3.97,
+        "numRatings": 573419
+    },
+    {
+        "title": "The Cat in the Hat",
+        "author": "Dr. Seuss",
+        "language": "English",
+        "price": 0.85,
+        "rating": 4.17,
+        "numRatings": 427837
+    },
+    {
+        "title": "American Gods",
+        "author": "Neil Gaiman (Goodreads Author)",
+        "language": "English",
+        "price": "",
+        "rating": 4.11,
+        "numRatings": 758439
+    },
+    {
+        "title": "The Count of Monte Cristo",
+        "author": "Alexandre Dumas, Robin Buss (Translator)",
+        "language": "English",
+        "price": 6.13,
+        "rating": 4.25,
+        "numRatings": 746424
+    },
+    {
+        "title": "Lonesome Dove",
+        "author": "Larry McMurtry",
+        "language": "English",
+        "price": 4.55,
+        "rating": 4.48,
+        "numRatings": 149079
+    },
+    {
+        "title": "Perfume: The Story of a Murderer",
+        "author": "Patrick Süskind, John E. Woods (Translator)",
+        "language": "English",
+        "price": 2.6,
+        "rating": 4.02,
+        "numRatings": 328171
+    },
+    {
+        "title": "Holes",
+        "author": "Louis Sachar (Goodreads Author)",
+        "language": "English",
+        "price": 3.1,
+        "rating": 3.97,
+        "numRatings": 969512
+    },
+    {
+        "title": "The Lion, the Witch and the Wardrobe",
+        "author": "C.S. Lewis",
+        "language": "English",
+        "price": "",
+        "rating": 4.22,
+        "numRatings": 2127972
+    },
+    {
+        "title": "Watchmen",
+        "author": "Alan Moore (Goodreads Author), Dave Gibbons (Illustrator/Letterer), John Higgins (Colorist)",
+        "language": "English",
+        "price": 4.85,
+        "rating": 4.36,
+        "numRatings": 487212
+    },
+    {
+        "title": "It",
+        "author": "Stephen King (Goodreads Author)",
+        "language": "English",
+        "price": 5.71,
+        "rating": 4.24,
+        "numRatings": 802411
+    },
+    {
+        "title": "The Last Olympian",
+        "author": "Rick Riordan (Goodreads Author)",
+        "language": "English",
+        "price": 7.44,
+        "rating": 4.51,
+        "numRatings": 668059
+    },
+    {
+        "title": "The Little House Collection",
+        "author": "Laura Ingalls Wilder, Garth Williams (Illustrator)",
+        "language": "English",
+        "price": "",
+        "rating": 4.34,
+        "numRatings": 141514
+    },
+    {
+        "title": "The Divine Comedy",
+        "author": "Dante Alighieri, Allen Mandelbaum (Translator), Eugenio Montale (Introduction)",
+        "language": "English",
+        "price": 13.66,
+        "rating": 4.05,
+        "numRatings": 119745
+    },
+    {
+        "title": "Peter Pan",
+        "author": "J.M. Barrie, Michael Hague (Illustrator)",
+        "language": "English",
+        "price": 5.26,
+        "rating": 4.05,
+        "numRatings": 276928
+    },
+    {
+        "title": "All Quiet on the Western Front",
+        "author": "Erich Maria Remarque, Arthur Wesley Wheen (Translator)",
+        "language": "English",
+        "price": 2.32,
+        "rating": 3.98,
+        "numRatings": 355188
+    },
+    {
+        "title": "The Hobbit, or There and Back Again",
+        "author": "J.R.R. Tolkien",
+        "language": "English",
+        "price": 4.68,
+        "rating": 4.27,
+        "numRatings": 2896265
+    },
+    {
+        "title": "The Compleat Works of Wllm Shkspr (abridged)",
+        "author": "Reduced Shakespeare Company, Adam Long (Contributor), Daniel Singer (Contributor), Jess Winfield (Editor)",
+        "language": "English",
+        "price": 3.17,
+        "rating": 4.44,
+        "numRatings": 8439
+    },
+    {
+        "title": "Love in the Time of Cholera",
+        "author": "Gabriel García Márquez, Edith Grossman (Translator)",
+        "language": "English",
+        "price": 3.36,
+        "rating": 3.92,
+        "numRatings": 412147
+    },
+    {
+        "title": "Shadow Kiss",
+        "author": "Richelle Mead (Goodreads Author)",
+        "language": "English",
+        "price": 2.76,
+        "rating": 4.35,
+        "numRatings": 325339
+    },
+    {
+        "title": "Insurgent",
+        "author": "Veronica Roth (Goodreads Author)",
+        "language": "English",
+        "price": "",
+        "rating": 4.02,
+        "numRatings": 1168021
+    },
+    {
+        "title": "The Thorn Birds",
+        "author": "Colleen McCullough",
+        "language": "English",
+        "price": "",
+        "rating": 4.23,
+        "numRatings": 314471
+    },
+    {
+        "title": "A Walk to Remember",
+        "author": "Nicholas Sparks (Goodreads Author)",
+        "language": "English",
+        "price": "",
+        "rating": 4.18,
+        "numRatings": 673094
+    },
+    {
+        "title": "How the Grinch Stole Christmas!",
+        "author": "Dr. Seuss",
+        "language": "English",
+        "price": "",
+        "rating": 4.36,
+        "numRatings": 330214
+    },
+    {
+        "title": "The Ultimate Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "language": "English",
+        "price": 2.76,
+        "rating": 4.36,
+        "numRatings": 287030
+    },
+    {
+        "title": "Atonement",
+        "author": "Ian McEwan",
+        "language": "English",
+        "price": 2.86,
+        "rating": 3.91,
+        "numRatings": 439357
+    },
+    {
+        "title": "The Importance of Being Earnest",
+        "author": "Oscar Wilde",
+        "language": "English",
+        "price": 5.26,
+        "rating": 4.18,
+        "numRatings": 302123
+    },
+    {
+        "title": "Eat, Pray, Love",
+        "author": "Elizabeth Gilbert (Goodreads Author)",
+        "language": "English",
+        "price": 2.86,
+        "rating": 3.57,
+        "numRatings": 1474731
+    },
+    {
+        "title": "Their Eyes Were Watching God",
+        "author": "Zora Neale Hurston",
+        "language": "English",
+        "price": 14.2,
+        "rating": 3.94,
+        "numRatings": 265556
+    },
+    {
+        "title": "The Three Musketeers",
+        "author": "Alexandre Dumas",
+        "language": "English",
+        "price": "",
+        "rating": 4.07,
+        "numRatings": 273714
+    },
+    {
+        "title": "The Wonderful Wizard of Oz",
+        "author": "L. Frank Baum, W.W. Denslow (Illustrator)",
+        "language": "English",
+        "price": 1.45,
+        "rating": 3.98,
+        "numRatings": 369625
+    },
+    {
+        "title": "Frostbite",
+        "author": "Richelle Mead (Goodreads Author)",
+        "language": "English",
+        "price": "",
+        "rating": 4.27,
+        "numRatings": 309408
+    },
+    {
+        "title": "Goodnight Moon",
+        "author": "Margaret Wise Brown, Clement Hurd (Illustrator)",
+        "language": "English",
+        "price": 5.69,
+        "rating": 4.28,
+        "numRatings": 305442
+    },
+    {
+        "title": "The Lorax",
+        "author": "Dr. Seuss",
+        "language": "English",
+        "price": 41.26,
+        "rating": 4.34,
+        "numRatings": 283383
+    },
+    {
+        "title": "Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",
+        "author": "Terry Pratchett, Neil Gaiman (Goodreads Author)",
+        "language": "English",
+        "price": "",
+        "rating": 4.24,
+        "numRatings": 543224
+    },
+    {
+        "title": "Blood Promise",
+        "author": "Richelle Mead (Goodreads Author)",
+        "language": "English",
+        "price": 3.73,
+        "rating": 4.32,
+        "numRatings": 276134
+    },
+    {
+        "title": "Tess of the D'Urbervilles",
+        "author": "Thomas Hardy, Margaret R. Higonnet (Introduction), Maria Grazia Griffini (Translator), Tim Dolin (Notes)",
+        "language": "English",
+        "price": "",
+        "rating": 3.8,
+        "numRatings": 238191
+    },
+    {
+        "title": "The Good Earth",
+        "author": "Pearl S. Buck",
+        "language": "English",
+        "price": 5.27,
+        "rating": 3.99,
+        "numRatings": 223200
+    },
+    {
+        "title": "Heart of Darkness",
+        "author": "Joseph Conrad, Aníbal Fernandes (Translator)",
+        "language": "English",
+        "price": 7.19,
+        "rating": 3.43,
+        "numRatings": 414628
+    },
+    {
+        "title": "The Battle of the Labyrinth",
+        "author": "Rick Riordan (Goodreads Author)",
+        "language": "English",
+        "price": "",
+        "rating": 4.39,
+        "numRatings": 741242
+    },
+    {
+        "title": "A Midsummer Night's Dream",
+        "author": "William Shakespeare, Paul Werstine (Editor), Barbara A. Mowat (Editor), Catherine Belsey (Contributor)",
+        "language": "English",
+        "price": 3.0,
+        "rating": 3.95,
+        "numRatings": 442719
+    },
+    {
+        "title": "Clockwork Princess",
+        "author": "Cassandra Clare (Goodreads Author)",
+        "language": "English",
+        "price": 4.0,
+        "rating": 4.57,
+        "numRatings": 337166
+    },
+    {
+        "title": "The Prophet",
+        "author": "Kahlil Gibran",
+        "language": "English",
+        "price": 5.8,
+        "rating": 4.22,
+        "numRatings": 234894
+    },
+    {
+        "title": "The Mists of Avalon",
+        "author": "Marion Zimmer Bradley",
+        "language": "English",
+        "price": "",
+        "rating": 4.11,
+        "numRatings": 191767
+    },
+    {
+        "title": "The Titan's Curse",
+        "author": "Rick Riordan (Goodreads Author)",
+        "language": "English",
+        "price": 3.43,
+        "rating": 4.35,
+        "numRatings": 686287
+    },
+    {
+        "title": "The Sea of Monsters",
+        "author": "Rick Riordan (Goodreads Author)",
+        "language": "English",
+        "price": 1.91,
+        "rating": 4.24,
+        "numRatings": 748643
+    },
+    {
+        "title": "The Joy Luck Club",
+        "author": "Amy Tan (Goodreads Author)",
+        "language": "English",
+        "price": 4.74,
+        "rating": 3.93,
+        "numRatings": 597870
+    },
+    {
+        "title": "Alice in Wonderland",
+        "author": "Jane Carruth (Adapted By), Lewis Carroll (Original Story By), Rene Cloke (Illustrator)",
+        "language": "English",
+        "price": 5.26,
+        "rating": 4.02,
+        "numRatings": 376781
+    },
+    {
+        "title": "The Call of the Wild",
+        "author": "Jack London, Avi (Introduction)",
+        "language": "English",
+        "price": 5.38,
+        "rating": 3.87,
+        "numRatings": 341131
+    },
+    {
+        "title": "Jonathan Livingston Seagull",
+        "author": "Richard Bach (Goodreads Author), Russell Munson (Photographer)",
+        "language": "English",
+        "price": 4.55,
+        "rating": 3.84,
+        "numRatings": 202289
+    },
+    {
+        "title": "Madame Bovary",
+        "author": "Gustave Flaubert, Mark Overstall (Contributor), Paul De Man (Editor), Malcolm Bowie (Introduction), Margaret Mauldon (Translator)",
+        "language": "French",
+        "price": 1.45,
+        "rating": 3.68,
+        "numRatings": 253769
+    },
+    {
+        "title": "The Phantom Tollbooth",
+        "author": "Norton Juster, Jules Feiffer (Illustrator)",
+        "language": "English",
+        "price": 5.79,
+        "rating": 4.2,
+        "numRatings": 242124
+    },
+    {
+        "title": "Bridge to Terabithia",
+        "author": "Katherine Paterson",
+        "language": "English",
+        "price": "",
+        "rating": 4.01,
+        "numRatings": 445082
+    },
+    {
+        "title": "The Hunger Games Trilogy Boxset",
+        "author": "Suzanne Collins, Guillaume Fournier (Translator), Pilar Ramírez Tello (Goodreads Author) (Translator), Hanna Hörl (Illustrator), Sylke Hachmeister (Translator), Peter Klöss (Translator)",
+        "language": "English",
+        "price": 4.09,
+        "rating": 4.48,
+        "numRatings": 187877
+    },
+    {
+        "title": "Oh, the Places You'll Go!",
+        "author": "Dr. Seuss",
+        "language": "English",
+        "price": 5.01,
+        "rating": 4.35,
+        "numRatings": 328451
+    },
+    {
+        "title": "The Girl Who Played with Fire",
+        "author": "Stieg Larsson, Reg Keeland (Translator)",
+        "language": "English",
+        "price": 3.25,
+        "rating": 4.24,
+        "numRatings": 809293
+    },
+    {
+        "title": "The Maze Runner",
+        "author": "James Dashner (Goodreads Author)",
+        "language": "English",
+        "price": 3.17,
+        "rating": 4.03,
+        "numRatings": 1056076
+    },
+    {
+        "title": "The Neverending Story",
+        "author": "Michael Ende, Ralph Manheim (Translator), Roswitha Quadflieg (Illustrator)",
+        "language": "English",
+        "price": 7.54,
+        "rating": 4.17,
+        "numRatings": 161944
+    },
+    {
+        "title": "Oliver Twist",
+        "author": "Charles Dickens, Philip Horne (Introduction), Gerald Dickens (Narrator), 查尔斯·狄更斯, 吴倩卓 (Translator)",
+        "language": "English",
+        "price": "",
+        "rating": 3.87,
+        "numRatings": 319238
+    },
+    {
+        "title": "Ulysses",
+        "author": "James Joyce, Morris L. Ernst (Foreword), John M. Woolsey (Foreword)",
+        "language": "English",
+        "price": "",
+        "rating": 3.73,
+        "numRatings": 110899
+    },
+    {
+        "title": "Treasure Island",
+        "author": "Robert Louis Stevenson, David W. Whitehead (Introduction), Richard S. Hartmetz (Goodreads Author) (Editor)",
+        "language": "English",
+        "price": 5.6,
+        "rating": 3.83,
+        "numRatings": 402027
+    },
+    {
+        "title": "Fifty Shades of Grey",
+        "author": "E.L. James (Goodreads Author)",
+        "language": "English",
+        "price": "",
+        "rating": 3.66,
+        "numRatings": 1946452
+    },
+    {
+        "title": "The Clan of the Cave Bear",
+        "author": "Jean M. Auel",
+        "language": "English",
+        "price": "",
+        "rating": 4.05,
+        "numRatings": 229099
+    },
+    {
+        "title": "A Storm of Swords",
+        "author": "George R.R. Martin",
+        "language": "English",
+        "price": 3.57,
+        "rating": 4.53,
+        "numRatings": 666114
+    },
+    {
+        "title": "The Canterbury Tales",
+        "author": "Geoffrey Chaucer, Nevill Coghill (Translator)",
+        "language": "English",
+        "price": 3.9,
+        "rating": 3.5,
+        "numRatings": 188606
+    },
+    {
+        "title": "The World According to Garp",
+        "author": "John Irving (Goodreads Author)",
+        "language": "English",
+        "price": "",
+        "rating": 4.09,
+        "numRatings": 204622
+    },
+    {
+        "title": "A Farewell to Arms",
+        "author": "Ernest Hemingway",
+        "language": "English",
+        "price": 0.91,
+        "rating": 3.81,
+        "numRatings": 263216
+    },
+    {
+        "title": "David Copperfield",
+        "author": "Charles Dickens, Jeremy Tambling (Introduction)",
+        "language": "English",
+        "price": "",
+        "rating": 4.0,
+        "numRatings": 199074
+    },
+    {
+        "title": "Tote Mädchen lügen nicht",
+        "author": "Jay Asher (Goodreads Author), Knut Krüger (Übersetzer)",
+        "language": "German",
+        "price": 3.86,
+        "rating": 3.92,
+        "numRatings": 772610
+    },
+    {
+        "title": "Wicked: The Life and Times of the Wicked Witch of the West",
+        "author": "Gregory Maguire, Douglas Smith (Illustrator)",
+        "language": "English",
+        "price": 2.76,
+        "rating": 3.54,
+        "numRatings": 573497
+    },
+    {
+        "title": "Shōgun",
+        "author": "James Clavell",
+        "language": "English",
+        "price": 7.04,
+        "rating": 4.39,
+        "numRatings": 146776
+    },
+    {
+        "title": "Extremely Loud & Incredibly Close",
+        "author": "Jonathan Safran Foer (Goodreads Author)",
+        "language": "English",
+        "price": 2.41,
+        "rating": 3.97,
+        "numRatings": 380009
+    },
+    {
+        "title": "Murder on the Orient Express",
+        "author": "Agatha Christie",
+        "language": "English",
+        "price": 2.56,
+        "rating": 4.17,
+        "numRatings": 381053
+    },
+    {
+        "title": "His Dark Materials",
+        "author": "Philip Pullman",
+        "language": "English",
+        "price": 3.57,
+        "rating": 4.25,
+        "numRatings": 143625
+    },
+    {
+        "title": "A Little Princess",
+        "author": "Frances Hodgson Burnett, Nancy Bond (Foreword)",
+        "language": "English",
+        "price": 2.87,
+        "rating": 4.2,
+        "numRatings": 271682
+    },
+    {
+        "title": "The Other Boleyn Girl",
+        "author": "Philippa Gregory (Goodreads Author)",
+        "language": "English",
+        "price": "",
+        "rating": 4.07,
+        "numRatings": 455559
+    },
+    {
+        "title": "Schindler's List",
+        "author": "Thomas Keneally",
+        "language": "English",
+        "price": 0.85,
+        "rating": 4.34,
+        "numRatings": 144236
+    },
+    {
+        "title": "The Boy in the Striped Pajamas",
+        "author": "John Boyne",
+        "language": "English",
+        "price": "",
+        "rating": 4.15,
+        "numRatings": 517922
+    },
+    {
+        "title": "Jurassic Park",
+        "author": "Michael Crichton",
+        "language": "English",
+        "price": "",
+        "rating": 4.04,
+        "numRatings": 802556
+    },
+    {
+        "title": "Last Sacrifice",
+        "author": "Richelle Mead (Goodreads Author)",
+        "language": "English",
+        "price": 3.8,
+        "rating": 4.39,
+        "numRatings": 254915
+    },
+    {
+        "title": "The Night Circus",
+        "author": "Erin Morgenstern (Goodreads Author)",
+        "language": "English",
+        "price": 7.02,
+        "rating": 4.03,
+        "numRatings": 684622
+    },
+    {
+        "title": "Fallen",
+        "author": "Lauren Kate (Goodreads Author)",
+        "language": "English",
+        "price": 4.64,
+        "rating": 3.73,
+        "numRatings": 494093
+    },
+    {
+        "title": "The Silmarillion",
+        "author": "J.R.R. Tolkien, Christopher Tolkien (Editor), Ted Nasmith (Illustrator)",
+        "language": "English",
+        "price": 17.07,
+        "rating": 3.93,
+        "numRatings": 219296
+    },
+    {
+        "title": "The Secret Magdalene",
+        "author": "Ki Longfellow (Goodreads Author)",
+        "language": "English",
+        "price": 5.6,
+        "rating": 4.07,
+        "numRatings": 4260
+    },
+    {
+        "title": "Beloved",
+        "author": "Toni Morrison",
+        "language": "English",
+        "price": 3.8,
+        "rating": 3.87,
+        "numRatings": 325282
+    },
+    {
+        "title": "The Trial",
+        "author": "Franz Kafka, Max Brod (Afterword), Willa Muir (Translator), Edwin Muir (Translator)",
+        "language": "English",
+        "price": "",
+        "rating": 3.96,
+        "numRatings": 234506
+    },
+    {
+        "title": "A Confederacy of Dunces",
+        "author": "John Kennedy Toole, Walker Percy (Foreword)",
+        "language": "English",
+        "price": 5.91,
+        "rating": 3.89,
+        "numRatings": 231036
+    },
+    {
+        "title": "The Sun Also Rises",
+        "author": "Ernest Hemingway",
+        "language": "English",
+        "price": "",
+        "rating": 3.82,
+        "numRatings": 365874
+    },
+    {
+        "title": "The Selection",
+        "author": "Kiera Cass (Goodreads Author)",
+        "language": "English",
+        "price": 5.01,
+        "rating": 4.13,
+        "numRatings": 892728
+    },
+    {
+        "title": "The Velveteen Rabbit",
+        "author": "Margery Williams Bianco, William Nicholson (Illustrator)",
+        "language": "English",
+        "price": 5.9,
+        "rating": 4.29,
+        "numRatings": 221550
+    },
+    {
+        "title": "Catching Fire",
+        "author": "Suzanne Collins",
+        "language": "English",
+        "price": 3.66,
+        "rating": 4.29,
+        "numRatings": 2514084
+    },
+    {
+        "title": "The Lost Hero",
+        "author": "Rick Riordan (Goodreads Author)",
+        "language": "English",
+        "price": 10.25,
+        "rating": 4.33,
+        "numRatings": 624124
+    },
+    {
+        "title": "Throne of Glass",
+        "author": "Sarah J. Maas (Goodreads Author)",
+        "language": "English",
+        "price": "",
+        "rating": 4.2,
+        "numRatings": 596208
+    },
+    {
+        "title": "Spirit Bound",
+        "author": "Richelle Mead (Goodreads Author)",
+        "language": "English",
+        "price": 4.59,
+        "rating": 4.35,
+        "numRatings": 260072
+    },
+    {
+        "title": "Clockwork Prince",
+        "author": "Cassandra Clare (Goodreads Author)",
+        "language": "English",
+        "price": 5.69,
+        "rating": 4.44,
+        "numRatings": 441712
+    },
+    {
+        "title": "The Iliad/The Odyssey",
+        "author": "Homer, Robert Fagles (Translator), Bernard Knox (Introduction)",
+        "language": "English",
+        "price": 6.15,
+        "rating": 4.04,
+        "numRatings": 62752
+    },
+    {
+        "title": "The Crucible",
+        "author": "Arthur Miller, Christopher Bigs(Introduction)",
+        "language": "English",
+        "price": 3.98,
+        "rating": 3.59,
+        "numRatings": 323164
+    },
+    {
+        "title": "Cat's Cradle",
+        "author": "Kurt Vonnegut Jr.",
+        "language": "English",
+        "price": 5.69,
+        "rating": 4.16,
+        "numRatings": 338863
+    },
+    {
+        "title": "The God of Small Things",
+        "author": "Arundhati Roy (Goodreads Author), Claude Demanuelli (Translator), Barbara Auer (Narrator), Diana Quick (Reading), Luana Stoica (trad.), Donada Peters (Narrator), Josep Julià Ballbé (Translator)",
+        "language": "English",
+        "price": 3.17,
+        "rating": 3.94,
+        "numRatings": 244242
+    },
+    {
+        "title": "The Wind in the Willows",
+        "author": "Kenneth Grahame, Gillian Avery (Introduction)",
+        "language": "English",
+        "price": 4.18,
+        "rating": 3.98,
+        "numRatings": 179500
+    },
+    {
+        "title": "The Screwtape Letters",
+        "author": "C.S. Lewis",
+        "language": "English",
+        "price": "",
+        "rating": 4.22,
+        "numRatings": 331949
+    },
+    {
+        "title": "Girl with a Pearl Earring",
+        "author": "Tracy Chevalier (Goodreads Author)",
+        "language": "English",
+        "price": 2.86,
+        "rating": 3.89,
+        "numRatings": 626689
+    },
+    {
+        "title": "The Hiding Place: The Triumphant True Story of Corrie Ten Boom",
+        "author": "Corrie ten Boom, John Sherrill, Elizabeth Sherrill (Goodreads Author)",
+        "language": "English",
+        "price": 4.17,
+        "rating": 4.42,
+        "numRatings": 257383
+    },
+    {
+        "title": "A Light in the Attic",
+        "author": "Shel Silverstein",
+        "language": "English",
+        "price": 12.08,
+        "rating": 4.34,
+        "numRatings": 374236
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "author": "Thomas Harris",
+        "language": "English",
+        "price": 3.11,
+        "rating": 4.2,
+        "numRatings": 463525
+    },
+    {
+        "title": "Shiver",
+        "author": "Maggie Stiefvater (Goodreads Author)",
+        "language": "English",
+        "price": 7.05,
+        "rating": 3.77,
+        "numRatings": 430888
+    },
+    {
+        "title": "Uglies",
+        "author": "Scott Westerfeld (Goodreads Author)",
+        "language": "English",
+        "price": 3.58,
+        "rating": 3.86,
+        "numRatings": 560175
+    },
+    {
+        "title": "City of Fallen Angels",
+        "author": "Cassandra Clare (Goodreads Author)",
+        "language": "English",
+        "price": 4.75,
+        "rating": 4.12,
+        "numRatings": 480909
+    },
+    {
+        "title": "Man's Search for Meaning",
+        "author": "Viktor E. Frankl, Harold S. Kushner (Foreword), William J. Winslade (Afterword), Isle Lasch (Translator)",
+        "language": "English",
+        "price": 7.37,
+        "rating": 4.36,
+        "numRatings": 400761
+    },
+    {
+        "title": "She's Come Undone",
+        "author": "Wally Lamb (Goodreads Author)",
+        "language": "English",
+        "price": 1.91,
+        "rating": 3.88,
+        "numRatings": 316234
+    },
+    {
+        "title": "The Phantom of the Opera",
+        "author": "Gaston Leroux, Alexander Teixeira de Mattos (Translator)",
+        "language": "English",
+        "price": 2.86,
+        "rating": 3.96,
+        "numRatings": 198779
+    },
+    {
+        "title": "Marley and Me: Life and Love With the World's Worst Dog",
+        "author": "John Grogan",
+        "language": "English",
+        "price": 5.29,
+        "rating": 4.13,
+        "numRatings": 440572
+    },
+    {
+        "title": "Ella Enchanted",
+        "author": "Gail Carson Levine (Goodreads Author)",
+        "language": "English",
+        "price": 1.91,
+        "rating": 3.98,
+        "numRatings": 386881
+    },
+    {
+        "title": "The Wind-Up Bird Chronicle",
+        "author": "Haruki Murakami, Jay Rubin (Translator)",
+        "language": "English",
+        "price": 22.25,
+        "rating": 4.16,
+        "numRatings": 218214
+    },
+    {
+        "title": "Cinder",
+        "author": "Marissa Meyer (Goodreads Author)",
+        "language": "English",
+        "price": "",
+        "rating": 4.14,
+        "numRatings": 682555
+    },
+    {
+        "title": "The Green Mile",
+        "author": "Stephen King (Goodreads Author)",
+        "language": "English",
+        "price": 17.56,
+        "rating": 4.45,
+        "numRatings": 248800
+    },
+    {
+        "title": "Blindness",
+        "author": "José Saramago",
+        "language": "English",
+        "price": "",
+        "rating": 4.13,
+        "numRatings": 200639
+    },
+    {
+        "title": "A Clash of Kings",
+        "author": "George R.R. Martin",
+        "language": "English",
+        "price": 1.91,
+        "rating": 4.41,
+        "numRatings": 788274
+    },
+    {
+        "title": "The Sound and the Fury",
+        "author": "William Faulkner",
+        "language": "English",
+        "price": "",
+        "rating": 3.86,
+        "numRatings": 158429
+    },
+    {
+        "title": "The Shack",
+        "author": "William Paul Young",
+        "language": "English",
+        "price": "",
+        "rating": 3.78,
+        "numRatings": 538472
+    },
+    {
+        "title": "Marked",
+        "author": "P.C. Cast (Goodreads Author), Kristin Cast (Goodreads Author)",
+        "language": "English",
+        "price": 1.79,
+        "rating": 3.8,
+        "numRatings": 430068
+    },
+    {
+        "title": "The Guernsey Literary and Potato Peel Pie Society",
+        "author": "Mary Ann Shaffer, Annie Barrows",
+        "language": "English",
+        "price": 3.65,
+        "rating": 4.17,
+        "numRatings": 610392
+    },
+    {
+        "title": "For Whom the Bell Tolls",
+        "author": "Ernest Hemingway",
+        "language": "English",
+        "price": "",
+        "rating": 3.97,
+        "numRatings": 249132
+    },
+    {
+        "title": "Fear and Loathing in Las Vegas",
+        "author": "Hunter S. Thompson, Ralph Steadman (Illustrator)",
+        "language": "English",
+        "price": 5.69,
+        "rating": 4.08,
+        "numRatings": 298919
+    },
+    {
+        "title": "The House of the Spirits",
+        "author": "Isabel Allende (Goodreads Author), Magda Bogin (Translator)",
+        "language": "English",
+        "price": 3.32,
+        "rating": 4.24,
+        "numRatings": 189801
+    },
+    {
+        "title": "The Complete Calvin and Hobbes",
+        "author": "Bill Watterson",
+        "language": "English",
+        "price": 110.67,
+        "rating": 4.82,
+        "numRatings": 34893
+    },
+    {
+        "title": "Roots: The Saga of an American Family",
+        "author": "Alex Haley",
+        "language": "English",
+        "price": 3.1,
+        "rating": 4.43,
+        "numRatings": 146094
+    },
+    {
+        "title": "Misery",
+        "author": "Stephen King (Goodreads Author)",
+        "language": "English",
+        "price": 1.12,
+        "rating": 4.17,
+        "numRatings": 498604
+    },
+    {
+        "title": "Howl's Moving Castle",
+        "author": "Diana Wynne Jones",
+        "language": "English",
+        "price": 5.95,
+        "rating": 4.26,
+        "numRatings": 215856
+    },
+    {
+        "title": "Stranger in a Strange Land",
+        "author": "Robert A. Heinlein",
+        "language": "English",
+        "price": 6.4,
+        "rating": 3.92,
+        "numRatings": 275412
+    },
+    {
+        "title": "Island of the Blue Dolphins",
+        "author": "Scott O'Dell",
+        "language": "English",
+        "price": "",
+        "rating": 3.84,
+        "numRatings": 291629
+    },
+    {
+        "title": "Midnight Sun [2008 Draft]",
+        "author": "Stephenie Meyer",
+        "language": "English",
+        "price": "",
+        "rating": 4.02,
+        "numRatings": 146281
+    },
+    {
+        "title": "The Girl Who Kicked the Hornet's Nest",
+        "author": "Stieg Larsson, Reg Keeland (Translator)",
+        "language": "English",
+        "price": 1.64,
+        "rating": 4.22,
+        "numRatings": 645579
+    },
+    {
+        "title": "The Secret History",
+        "author": "Donna Tartt",
+        "language": "English",
+        "price": 9.11,
+        "rating": 4.09,
+        "numRatings": 315296
+    },
+    {
+        "title": "White Oleander",
+        "author": "Janet Fitch (Goodreads Author)",
+        "language": "English",
+        "price": 4.89,
+        "rating": 3.97,
+        "numRatings": 321703
+    },
+    {
+        "title": "The Diary of a Young Girl",
+        "author": "Anne Frank, Eleanor Roosevelt (Introduction), 郭清玲 (Translator), Barbara Mooyaart-Doubleday (Translator)",
+        "language": "English",
+        "price": "",
+        "rating": 4.15,
+        "numRatings": 2741134
+    },
+    {
+        "title": "Delirium",
+        "author": "Lauren Oliver (Goodreads Author)",
+        "language": "English",
+        "price": 2.86,
+        "rating": 3.97,
+        "numRatings": 416677
+    },
+    {
+        "title": "Beautiful Disaster",
+        "author": "Jamie McGuire (Goodreads Author)",
+        "language": "English",
+        "price": "",
+        "rating": 4.09,
+        "numRatings": 546801
+    },
+    {
+        "title": "Othello",
+        "author": "William Shakespeare",
+        "language": "English",
+        "price": 6.76,
+        "rating": 3.9,
+        "numRatings": 315131
+    },
+    {
+        "title": "Flow Down Like Silver: Hypatia of Alexandria",
+        "author": "Ki Longfellow (Goodreads Author)",
+        "language": "English",
+        "price": 8.08,
+        "rating": 4.42,
+        "numRatings": 2317
+    },
+    {
+        "title": "Paper Towns",
+        "author": "John Green (Goodreads Author)",
+        "language": "English",
+        "price": 1.61,
+        "rating": 3.8,
+        "numRatings": 919337
+    },
+    {
+        "title": "The Vampire Lestat",
+        "author": "Anne Rice",
+        "language": "English",
+        "price": 5.68,
+        "rating": 4.07,
+        "numRatings": 176682
+    },
+    {
+        "title": "Speak",
+        "author": "Laurie Halse Anderson (Goodreads Author)",
+        "language": "English",
+        "price": 5.07,
+        "rating": 4.02,
+        "numRatings": 484810
+    },
+    {
+        "title": "The Idiot",
+        "author": "Fyodor Dostoyevsky, Anna Brailovsky (Translator), Eva M. Martin (Translator), Constance Garnett (Translator), Martin Geeson (Narrator), Joseph Frank (Introduction)",
+        "language": "English",
+        "price": 5.46,
+        "rating": 4.18,
+        "numRatings": 132551
+    },
+    {
+        "title": "King Lear",
+        "author": "William Shakespeare",
+        "language": "English",
+        "price": 3.78,
+        "rating": 3.91,
+        "numRatings": 180662
+    },
+    {
+        "title": "The Once and Future King",
+        "author": "T.H. White",
+        "language": "English",
+        "price": 2.66,
+        "rating": 4.05,
+        "numRatings": 100326
+    },
+    {
+        "title": "I Know This Much Is True",
+        "author": "Wally Lamb (Goodreads Author)",
+        "language": "English",
+        "price": 2.94,
+        "rating": 4.19,
+        "numRatings": 289519
+    },
+    {
+        "title": "Neverwhere",
+        "author": "Neil Gaiman (Goodreads Author)",
+        "language": "English",
+        "price": 4.66,
+        "rating": 4.17,
+        "numRatings": 429671
+    },
+    {
+        "title": "Into the Wild",
+        "author": "Jon Krakauer (Goodreads Author)",
+        "language": "English",
+        "price": 3.75,
+        "rating": 3.99,
+        "numRatings": 878855
+    },
+    {
+        "title": "Inkheart",
+        "author": "Cornelia Funke (Goodreads Author), Anthea Bell (Translator)",
+        "language": "English",
+        "price": 3.52,
+        "rating": 3.88,
+        "numRatings": 369454
+    },
+    {
+        "title": "Uncle Tom's Cabin",
+        "author": "Harriet Beecher Stowe",
+        "language": "English",
+        "price": "",
+        "rating": 3.87,
+        "numRatings": 197761
+    },
+    {
+        "title": "Lamb: The Gospel According to Biff, Christ's Childhood Pal",
+        "author": "Christopher Moore (Goodreads Author)",
+        "language": "English",
+        "price": 3.56,
+        "rating": 4.24,
+        "numRatings": 151087
+    },
+    {
+        "title": "The Historian",
+        "author": "Elizabeth Kostova",
+        "language": "English",
+        "price": "",
+        "rating": 3.79,
+        "numRatings": 242366
+    },
+    {
+        "title": "The Complete Sherlock Holmes",
+        "author": "Arthur Conan Doyle",
+        "language": "English",
+        "price": 11.24,
+        "rating": 4.48,
+        "numRatings": 174295
+    },
+    {
+        "title": "Candide",
+        "author": "Voltaire, Sara Gioacchino Corcos (Translator)",
+        "language": "English",
+        "price": 1.45,
+        "rating": 3.77,
+        "numRatings": 219555
+    },
+    {
+        "title": "James and the Giant Peach",
+        "author": "Roald Dahl, Quentin Blake (Illustrator)",
+        "language": "English",
+        "price": 5.4,
+        "rating": 4.02,
+        "numRatings": 378763
+    },
+    {
+        "title": "Invisible Man",
+        "author": "Ralph Ellison",
+        "language": "English",
+        "price": "",
+        "rating": 3.88,
+        "numRatings": 156730
+    },
+    {
+        "title": "Gone Girl",
+        "author": "Gillian Flynn (Goodreads Author)",
+        "language": "English",
+        "price": "",
+        "rating": 4.08,
+        "numRatings": 2329146
+    },
+    {
+        "title": "Blood River: A Journey to Africa's Broken Heart",
+        "author": "Tim Butcher (Goodreads Author)",
+        "language": "English",
+        "price": 2.76,
+        "rating": 4.06,
+        "numRatings": 7554
+    },
+    {
+        "title": "Paradise Lost",
+        "author": "John Milton, John Leonard (Editor, Contributor)",
+        "language": "English",
+        "price": 1.91,
+        "rating": 3.81,
+        "numRatings": 136884
+    },
+    {
+        "title": "Leaves of Grass",
+        "author": "Walt Whitman",
+        "language": "English",
+        "price": "",
+        "rating": 4.12,
+        "numRatings": 89814
+    },
+    {
+        "title": "All Creatures Great and Small",
+        "author": "James Herriot",
+        "language": "English",
+        "price": 2.63,
+        "rating": 4.32,
+        "numRatings": 114546
+    },
+    {
+        "title": "Graceling",
+        "author": "Kristin Cashore",
+        "language": "English",
+        "price": "",
+        "rating": 4.08,
+        "numRatings": 384727
+    },
+    {
+        "title": "The Complete Works",
+        "author": "William Shakespeare",
+        "language": "English",
+        "price": 4.44,
+        "rating": 4.5,
+        "numRatings": 50163
+    },
+    {
+        "title": "The Thirteenth Tale",
+        "author": "Diane Setterfield (Goodreads Author)",
+        "language": "English",
+        "price": 1.76,
+        "rating": 3.97,
+        "numRatings": 272208
+    },
+    {
+        "title": "Foundation",
+        "author": "Isaac Asimov",
+        "language": "English",
+        "price": 15.29,
+        "rating": 4.17,
+        "numRatings": 409745
+    },
+    {
+        "title": "Norwegian Wood",
+        "author": "Haruki Murakami, Jay Rubin (Translator)",
+        "language": "English",
+        "price": 13.0,
+        "rating": 4.03,
+        "numRatings": 347307
+    },
+    {
+        "title": "The Things They Carried",
+        "author": "Tim O'Brien",
+        "language": "English",
+        "price": 3.32,
+        "rating": 4.13,
+        "numRatings": 253046
+    },
+    {
+        "title": "The Cider House Rules",
+        "author": "John Irving (Goodreads Author)",
+        "language": "English",
+        "price": 5.14,
+        "rating": 4.13,
+        "numRatings": 161199
+    },
+    {
+        "title": "The Time Machine",
+        "author": "H.G. Wells, Greg Bear (Introduction), Carlo Pagetti (Foreword)",
+        "language": "English",
+        "price": "",
+        "rating": 3.89,
+        "numRatings": 412817
+    },
+    {
+        "title": "Different Seasons",
+        "author": "Stephen King (Goodreads Author)",
+        "language": "English",
+        "price": 3.11,
+        "rating": 4.34,
+        "numRatings": 176769
+    },
+    {
+        "title": "Kafka on the Shore",
+        "author": "Haruki Murakami, Philip Gabriel (Translator)",
+        "language": "English",
+        "price": 8.22,
+        "rating": 4.13,
+        "numRatings": 305688
+    },
+    {
+        "title": "Heidi",
+        "author": "Johanna Spyri, Beverly Cleary (Foreword), Angelo Rinaldi (Illustrator)",
+        "language": "English",
+        "price": 2.49,
+        "rating": 3.99,
+        "numRatings": 172541
+    },
+    {
+        "title": "Are You There God? It's Me, Margaret",
+        "author": "Judy Blume (Goodreads Author)",
+        "language": "English",
+        "price": 11.9,
+        "rating": 3.9,
+        "numRatings": 189270
+    },
+    {
+        "title": "City of Lost Souls",
+        "author": "Cassandra Clare (Goodreads Author)",
+        "language": "English",
+        "price": 5.26,
+        "rating": 4.27,
+        "numRatings": 423962
+    },
+    {
+        "title": "Sophie's World",
+        "author": "Jostein Gaarder, Paulette Møller (Translator)",
+        "language": "English",
+        "price": 3.43,
+        "rating": 3.93,
+        "numRatings": 200234
+    },
+    {
+        "title": "Walden",
+        "author": "Henry David Thoreau",
+        "language": "English",
+        "price": "",
+        "rating": 3.78,
+        "numRatings": 157871
+    },
+    {
+        "title": "The Wise Man's Fear",
+        "author": "Patrick Rothfuss (Goodreads Author)",
+        "language": "English",
+        "price": 16.37,
+        "rating": 4.56,
+        "numRatings": 427730
+    },
+    {
+        "title": "زندگی مه آلود پریا",
+        "author": "سید مرتضی مصطفوی (Goodreads Author)",
+        "language": "Persian",
+        "price": "",
+        "rating": 3.92,
+        "numRatings": 948
+    },
+    {
+        "title": "The Awakening",
+        "author": "Kate Chopin",
+        "language": "English",
+        "price": 10.36,
+        "rating": 3.65,
+        "numRatings": 170636
+    },
+    {
+        "title": "Fangirl",
+        "author": "Rainbow Rowell (Goodreads Author)",
+        "language": "English",
+        "price": "",
+        "rating": 4.05,
+        "numRatings": 574854
+    },
+    {
+        "title": "Sophie's Choice",
+        "author": "William Styron",
+        "language": "English",
+        "price": 4.08,
+        "rating": 4.18,
+        "numRatings": 81708
+    },
+    {
+        "title": "The Prince of Tides",
+        "author": "Pat Conroy",
+        "language": "English",
+        "price": 7.15,
+        "rating": 4.24,
+        "numRatings": 193840
+    },
+    {
+        "title": "Never Let Me Go",
+        "author": "Kazuo Ishiguro",
+        "language": "English",
+        "price": 6.46,
+        "rating": 3.82,
+        "numRatings": 471423
+    },
+    {
+        "title": "The Son of Neptune",
+        "author": "Rick Riordan (Goodreads Author)",
+        "language": "English",
+        "price": 6.42,
+        "rating": 4.43,
+        "numRatings": 412823
+    },
+    {
+        "title": "Dead Until Dark",
+        "author": "Charlaine Harris (Goodreads Author)",
+        "language": "English",
+        "price": 3.16,
+        "rating": 3.96,
+        "numRatings": 495821
+    },
+    {
+        "title": "Fried Green Tomatoes at the Whistle Stop Cafe",
+        "author": "Fannie Flagg",
+        "language": "English",
+        "price": 16.54,
+        "rating": 4.28,
+        "numRatings": 265773
+    },
+    {
+        "title": "Fifty Shades Darker",
+        "author": "E.L. James (Goodreads Author)",
+        "language": "English",
+        "price": 6.33,
+        "rating": 3.84,
+        "numRatings": 745051
+    },
+    {
+        "title": "Ready Player One",
+        "author": "Ernest Cline (Goodreads Author)",
+        "language": "English",
+        "price": 16.53,
+        "rating": 4.26,
+        "numRatings": 860699
+    },
+    {
+        "title": "Middlemarch",
+        "author": "George Eliot, Michel Faber (Introduction)",
+        "language": "English",
+        "price": 5.49,
+        "rating": 3.97,
+        "numRatings": 135624
+    },
+    {
+        "title": "The Monster at the End of this Book",
+        "author": "Jon Stone, Michael J. Smollin (Illustrator)",
+        "language": "English",
+        "price": 5.46,
+        "rating": 4.44,
+        "numRatings": 120014
+    },
+    {
+        "title": "A Court of Mist and Fury",
+        "author": "Sarah J. Maas (Goodreads Author)",
+        "language": "English",
+        "price": "",
+        "rating": 4.62,
+        "numRatings": 332646
+    },
+    {
+        "title": "Things Fall Apart",
+        "author": "Chinua Achebe",
+        "language": "English",
+        "price": "",
+        "rating": 3.68,
+        "numRatings": 287970
+    },
+    {
+        "title": "Bridget Jones's Diary",
+        "author": "Helen Fielding (Goodreads Author), Хелен Филдинг",
+        "language": "English",
+        "price": 4.48,
+        "rating": 3.78,
+        "numRatings": 881406
+    },
+    {
+        "title": "Mrs. Dalloway",
+        "author": "Virginia Woolf, Maureen Howard (Foreword)",
+        "language": "English",
+        "price": 1.33,
+        "rating": 3.79,
+        "numRatings": 223466
+    },
+    {
+        "title": "Mockingjay",
+        "author": "Suzanne Collins",
+        "language": "English",
+        "price": 3.43,
+        "rating": 4.04,
+        "numRatings": 2348368
+    },
+    {
+        "title": "Franny and Zooey",
+        "author": "J.D. Salinger",
+        "language": "English",
+        "price": 4.19,
+        "rating": 3.98,
+        "numRatings": 185569
+    },
+    {
+        "title": "The Power of One",
+        "author": "Bryce Courtenay",
+        "language": "English",
+        "price": 4.0,
+        "rating": 4.33,
+        "numRatings": 79286
+    },
+    {
+        "title": "The Magician's Nephew",
+        "author": "C.S. Lewis",
+        "language": "English",
+        "price": 2.86,
+        "rating": 4.04,
+        "numRatings": 410571
+    },
+    {
+        "title": "Stardust",
+        "author": "Neil Gaiman (Goodreads Author)",
+        "language": "English",
+        "price": 6.7,
+        "rating": 4.08,
+        "numRatings": 358640
+    },
+    {
+        "title": "A Time to Kill",
+        "author": "John Grisham (Goodreads Author)",
+        "language": "English",
+        "price": "",
+        "rating": 4.07,
+        "numRatings": 703377
+    },
+    {
+        "title": "The Gunslinger",
+        "author": "Stephen King (Goodreads Author)",
+        "language": "English",
+        "price": "",
+        "rating": 3.95,
+        "numRatings": 514829
+    },
+    {
+        "title": "Number the Stars",
+        "author": "Lois Lowry (Goodreads Author)",
+        "language": "English",
+        "price": 8.29,
+        "rating": 4.15,
+        "numRatings": 448419
+    },
+    {
+        "title": "Do Androids Dream of Electric Sheep?",
+        "author": "Philip K. Dick",
+        "language": "English",
+        "price": "",
+        "rating": 4.08,
+        "numRatings": 345534
+    },
+    {
+        "title": "Allegiant",
+        "author": "Veronica Roth (Goodreads Author)",
+        "language": "English",
+        "price": 2.76,
+        "rating": 3.62,
+        "numRatings": 826865
+    },
+    {
+        "title": "Eleanor & Park",
+        "author": "Rainbow Rowell (Goodreads Author)",
+        "language": "English",
+        "price": 1.06,
+        "rating": 4.05,
+        "numRatings": 860151
+    },
+    {
+        "title": "A Short History of Nearly Everything",
+        "author": "Bill Bryson",
+        "language": "English",
+        "price": 2.17,
+        "rating": 4.2,
+        "numRatings": 298196
+    },
+    {
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "language": "English",
+        "price": "",
+        "rating": 4.5,
+        "numRatings": 564734
+    },
+    {
+        "title": "Me Before You",
+        "author": "Jojo Moyes (Goodreads Author)",
+        "language": "English",
+        "price": 3.14,
+        "rating": 4.26,
+        "numRatings": 1148863
+    },
+    {
+        "title": "The Mark of Athena",
+        "author": "Rick Riordan (Goodreads Author)",
+        "language": "English",
+        "price": 5.11,
+        "rating": 4.45,
+        "numRatings": 440607
+    },
+    {
+        "title": "The Art of Racing in the Rain",
+        "author": "Garth Stein (Goodreads Author)",
+        "language": "English",
+        "price": 5.27,
+        "rating": 4.21,
+        "numRatings": 451946
+    },
+    {
+        "title": "The Way of Kings",
+        "author": "Brandon Sanderson (Goodreads Author)",
+        "language": "English",
+        "price": 22.74,
+        "rating": 4.63,
+        "numRatings": 302877
+    },
+    {
+        "title": "If I Stay",
+        "author": "Gayle Forman (Goodreads Author)",
+        "language": "English",
+        "price": 3.82,
+        "rating": 3.94,
+        "numRatings": 712350
+    },
+    {
+        "title": "Black Beauty",
+        "author": "Anna Sewell",
+        "language": "English",
+        "price": 3.16,
+        "rating": 3.96,
+        "numRatings": 239006
+    },
+    {
+        "title": "Legend",
+        "author": "Marie Lu (Goodreads Author)",
+        "language": "English",
+        "price": "",
+        "rating": 4.17,
+        "numRatings": 411041
+    },
+    {
+        "title": "The Hound of the Baskervilles",
+        "author": "Arthur Conan Doyle, Anne Perry (Afterword)",
+        "language": "English",
+        "price": "",
+        "rating": 4.12,
+        "numRatings": 254115
+    },
+    {
+        "title": "A Portrait of the Artist as a Young Man",
+        "author": "James Joyce, Seamus Deane (Editor), Jim Norton (Translation), Hans Walter Gabler, Jeri Johnson (Editor), J.M. Gaffney (Editor), Ludmila Savitzky (Translator)",
+        "language": "English",
+        "price": 5.87,
+        "rating": 3.62,
+        "numRatings": 128028
+    },
+    {
+        "title": "Gulliver's Travels",
+        "author": "Jonathan Swift, Robert DeMaria Jr. (Editor)",
+        "language": "English",
+        "price": 3.27,
+        "rating": 3.57,
+        "numRatings": 231966
+    },
+    {
+        "title": "Bel Canto",
+        "author": "Ann Patchett",
+        "language": "English",
+        "price": 2.86,
+        "rating": 3.93,
+        "numRatings": 239548
+    },
+    {
+        "title": "American Psycho",
+        "author": "Bret Easton Ellis",
+        "language": "English",
+        "price": 3.34,
+        "rating": 3.82,
+        "numRatings": 242164
+    },
+    {
+        "title": "V for Vendetta",
+        "author": "Alan Moore (Goodreads Author), David Lloyd (Illustrator)",
+        "language": "English",
+        "price": 14.65,
+        "rating": 4.25,
+        "numRatings": 264288
+    },
+    {
+        "title": "Love You Forever",
+        "author": "Robert Munsch, Sheila McGraw (Illustrator)",
+        "language": "English",
+        "price": 3.46,
+        "rating": 4.36,
+        "numRatings": 202401
+    },
+    {
+        "title": "The Witches",
+        "author": "Roald Dahl, Quentin Blake (Illustrator)",
+        "language": "English",
+        "price": 3.84,
+        "rating": 4.17,
+        "numRatings": 313894
+    },
+    {
+        "title": "القرآن الكريم",
+        "author": "Anonymous",
+        "language": "Arabic",
+        "price": "",
+        "rating": 4.35,
+        "numRatings": 57449
+    },
+    {
+        "title": "The Graveyard Book",
+        "author": "Neil Gaiman (Goodreads Author), Dave McKean (Illustrator)",
+        "language": "English",
+        "price": 3.87,
+        "rating": 4.13,
+        "numRatings": 437701
+    },
+    {
+        "title": "The Complete Novels",
+        "author": "Jane Austen",
+        "language": "English",
+        "price": 2.76,
+        "rating": 4.56,
+        "numRatings": 29708
+    },
+    {
+        "title": "Fifty Shades Freed",
+        "author": "E.L. James (Goodreads Author)",
+        "language": "English",
+        "price": 4.0,
+        "rating": 3.85,
+        "numRatings": 713779
+    },
+    {
+        "title": "Cold Mountain",
+        "author": "Charles Frazier",
+        "language": "English",
+        "price": 4.21,
+        "rating": 3.86,
+        "numRatings": 221434
+    },
+    {
+        "title": "White Fang",
+        "author": "Jack London, مها محمود صالح (Goodreads Author) (Translator)",
+        "language": "English",
+        "price": 3.16,
+        "rating": 3.98,
+        "numRatings": 153650
+    },
+    {
+        "title": "Wonder",
+        "author": "R.J. Palacio",
+        "language": "English",
+        "price": "",
+        "rating": 4.44,
+        "numRatings": 733486
+    },
+    {
+        "title": "Beowulf",
+        "author": "Unknown, Seamus Heaney (Translator)",
+        "language": "English",
+        "price": 4.55,
+        "rating": 3.45,
+        "numRatings": 238815
+    },
+    {
+        "title": "Tuck Everlasting",
+        "author": "Natalie Babbitt",
+        "language": "English",
+        "price": 3.1,
+        "rating": 3.87,
+        "numRatings": 232167
+    },
+    {
+        "title": "The Final Empire",
+        "author": "Brandon Sanderson (Goodreads Author)",
+        "language": "English",
+        "price": 20.93,
+        "rating": 4.45,
+        "numRatings": 401784
+    },
+    {
+        "title": "Beautiful Creatures",
+        "author": "Kami Garcia (Goodreads Author), Margaret Stohl (Goodreads Author)",
+        "language": "English",
+        "price": 6.29,
+        "rating": 3.76,
+        "numRatings": 539336
+    },
+    {
+        "title": "Steppenwolf",
+        "author": "Hermann Hesse, Basil Creighton (translator)",
+        "language": "English",
+        "price": 2.71,
+        "rating": 4.13,
+        "numRatings": 135748
+    },
+    {
+        "title": "Eldest",
+        "author": "Christopher Paolini (Goodreads Author)",
+        "language": "English",
+        "price": 3.11,
+        "rating": 3.99,
+        "numRatings": 355083
+    },
+    {
+        "title": "Dark Lover",
+        "author": "J.R. Ward (Goodreads Author)",
+        "language": "English",
+        "price": 3.89,
+        "rating": 4.19,
+        "numRatings": 289077
+    },
+    {
+        "title": "Go Ask Alice",
+        "author": "Beatrice Sparks (as \"Anonymous\"), Anonymous",
+        "language": "English",
+        "price": 2.98,
+        "rating": 3.76,
+        "numRatings": 234681
+    },
+    {
+        "title": "انتحار فاشل",
+        "author": "أحمد جمال الدين رمضان",
+        "language": "Arabic",
+        "price": "",
+        "rating": 4.51,
+        "numRatings": 2270
+    },
+    {
+        "title": "The Eye of the World",
+        "author": "Robert Jordan",
+        "language": "English",
+        "price": 5.13,
+        "rating": 4.17,
+        "numRatings": 391753
+    },
+    {
+        "title": "The Tell-Tale Heart and Other Writings",
+        "author": "Edgar Allan Poe",
+        "language": "English",
+        "price": 5.58,
+        "rating": 4.17,
+        "numRatings": 221639
+    },
+    {
+        "title": "As I Lay Dying",
+        "author": "William Faulkner",
+        "language": "English",
+        "price": 3.81,
+        "rating": 3.72,
+        "numRatings": 136830
+    },
+    {
+        "title": "A Separate Peace",
+        "author": "John Knowles, David Levithan (Goodreads Author) (Afterword)",
+        "language": "English",
+        "price": 2.82,
+        "rating": 3.58,
+        "numRatings": 190859
+    },
+    {
+        "title": "The Complete Maus",
+        "author": "Art Spiegelman",
+        "language": "English",
+        "price": 13.84,
+        "rating": 4.55,
+        "numRatings": 137596
+    },
+    {
+        "title": "Mansfield Park",
+        "author": "Jane Austen, Kathryn Sutherland (Editor)",
+        "language": "English",
+        "price": 3.11,
+        "rating": 3.86,
+        "numRatings": 284314
+    },
+    {
+        "title": "The Amazing Adventures of Kavalier & Clay",
+        "author": "Michael Chabon",
+        "language": "English",
+        "price": 3.76,
+        "rating": 4.18,
+        "numRatings": 184040
+    },
+    {
+        "title": "Brisingr",
+        "author": "Christopher Paolini (Goodreads Author)",
+        "language": "English",
+        "price": 3.92,
+        "rating": 4.05,
+        "numRatings": 299095
+    },
+    {
+        "title": "العصبي",
+        "author": "أحمد جمال الدين رمضان",
+        "language": "Arabic",
+        "price": "",
+        "rating": 4.52,
+        "numRatings": 1952
+    },
+    {
+        "title": "A Child Called \"It\"",
+        "author": "Dave Pelzer (Goodreads Author)",
+        "language": "English",
+        "price": 2.93,
+        "rating": 4.11,
+        "numRatings": 378898
+    },
+    {
+        "title": "Stargirl",
+        "author": "Jerry Spinelli",
+        "language": "English",
+        "price": 2.25,
+        "rating": 3.76,
+        "numRatings": 296407
+    },
+    {
+        "title": "Tao Te Ching",
+        "author": "Lao Tzu, Gia-Fu Feng (Translation), Jane English (Translation), Toinette Lippe (Goodreads Author) (Translation), Jacob Needleman (Translation)",
+        "language": "English",
+        "price": 8.0,
+        "rating": 4.28,
+        "numRatings": 117120
+    },
+    {
+        "title": "Dear John",
+        "author": "Nicholas Sparks (Goodreads Author)",
+        "language": "English",
+        "price": 1.64,
+        "rating": 4.03,
+        "numRatings": 539724
+    },
+    {
+        "title": "Midnight's Children",
+        "author": "Salman Rushdie",
+        "language": "English",
+        "price": 0.85,
+        "rating": 3.98,
+        "numRatings": 104523
+    },
+    {
+        "title": "Obsidian",
+        "author": "Jennifer L. Armentrout (Goodreads Author)",
+        "language": "English",
+        "price": "",
+        "rating": 4.18,
+        "numRatings": 225596
+    },
+    {
+        "title": "'Salem's Lot",
+        "author": "Stephen King (Goodreads Author)",
+        "language": "English",
+        "price": 1.12,
+        "rating": 4.03,
+        "numRatings": 334051
+    },
+    {
+        "title": "The Martian Chronicles",
+        "author": "Ray Bradbury",
+        "language": "English",
+        "price": 3.63,
+        "rating": 4.14,
+        "numRatings": 210234
+    },
+    {
+        "title": "Crescendo",
+        "author": "Becca Fitzpatrick (Goodreads Author)",
+        "language": "English",
+        "price": 5.8,
+        "rating": 4.04,
+        "numRatings": 274616
+    },
+    {
+        "title": "The English Patient",
+        "author": "Michael Ondaatje",
+        "language": "English",
+        "price": 16.05,
+        "rating": 3.88,
+        "numRatings": 113375
+    },
+    {
+        "title": "East of Eden",
+        "author": "John Steinbeck",
+        "language": "English",
+        "price": 5.26,
+        "rating": 4.38,
+        "numRatings": 428907
+    },
+    {
+        "title": "Cloud Atlas",
+        "author": "David Mitchell",
+        "language": "English",
+        "price": 1.15,
+        "rating": 4.01,
+        "numRatings": 216149
+    },
+    {
+        "title": "Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values",
+        "author": "Robert M. Pirsig",
+        "language": "English",
+        "price": 4.41,
+        "rating": 3.77,
+        "numRatings": 200458
+    },
+    {
+        "title": "The Martian",
+        "author": "Andy Weir (Goodreads Author)",
+        "language": "English",
+        "price": 2.63,
+        "rating": 4.4,
+        "numRatings": 817411
+    },
+    {
+        "title": "The Firm",
+        "author": "John Grisham (Goodreads Author), Robin Waterfield (Adapter)",
+        "language": "English",
+        "price": 3.09,
+        "rating": 4.02,
+        "numRatings": 564260
+    },
+    {
+        "title": "The Last Song",
+        "author": "Nicholas Sparks (Goodreads Author)",
+        "language": "English",
+        "price": 3.28,
+        "rating": 4.15,
+        "numRatings": 504747
+    },
+    {
+        "title": "My Ántonia",
+        "author": "Willa Cather",
+        "language": "English",
+        "price": 2.86,
+        "rating": 3.8,
+        "numRatings": 119909
+    },
+    {
+        "title": "Shatter Me",
+        "author": "Tahereh Mafi",
+        "language": "English",
+        "price": 4.81,
+        "rating": 3.95,
+        "numRatings": 290772
+    },
+    {
+        "title": "The Amber Spyglass",
+        "author": "Philip Pullman",
+        "language": "English",
+        "price": 1.64,
+        "rating": 4.09,
+        "numRatings": 298240
+    },
+    {
+        "title": "Doctor Zhivago",
+        "author": "Boris Pasternak, John Bayley (Introduction), Max Hayward (Translator), Manya Harari (Translator)",
+        "language": "English",
+        "price": 6.56,
+        "rating": 4.01,
+        "numRatings": 82469
+    },
+    {
+        "title": "The Hunchback of Notre-Dame",
+        "author": "Victor Hugo, Walter J. Cobb (Translator)",
+        "language": "English",
+        "price": 3.32,
+        "rating": 3.99,
+        "numRatings": 171302
+    },
+    {
+        "title": "Robinson Crusoe",
+        "author": "Daniel Defoe, Virginia Woolf (Introduction)",
+        "language": "English",
+        "price": "",
+        "rating": 3.68,
+        "numRatings": 247795
+    },
+    {
+        "title": "Inferno",
+        "author": "Dante Alighieri, Anthony M. Esolen (Translator)",
+        "language": "English",
+        "price": 5.34,
+        "rating": 4.0,
+        "numRatings": 143016
+    },
+    {
+        "title": "Like Water for Chocolate",
+        "author": "Laura Esquivel, Thomas Christensen (Goodreads Author) (Translator), Carol Christensen (Translator)",
+        "language": "English",
+        "price": 2.6,
+        "rating": 3.95,
+        "numRatings": 324463
+    },
+    {
+        "title": "Breakfast at Tiffany's and Three Stories",
+        "author": "Truman Capote",
+        "language": "English",
+        "price": "",
+        "rating": 3.88,
+        "numRatings": 211460
+    },
+    {
+        "title": "Room",
+        "author": "Emma Donoghue (Goodreads Author)",
+        "language": "English",
+        "price": "",
+        "rating": 4.06,
+        "numRatings": 714395
+    },
+    {
+        "title": "Dragonfly in Amber",
+        "author": "Diana Gabaldon (Goodreads Author)",
+        "language": "English",
+        "price": 4.8,
+        "rating": 4.32,
+        "numRatings": 287189
+    },
+    {
+        "title": "Breakfast of Champions",
+        "author": "Kurt Vonnegut Jr.",
+        "language": "English",
+        "price": 2.82,
+        "rating": 4.07,
+        "numRatings": 222835
+    },
+    {
+        "title": "The BFG",
+        "author": "Roald Dahl, Quentin Blake (Illustrator)",
+        "language": "English",
+        "price": 2.75,
+        "rating": 4.22,
+        "numRatings": 373279
+    },
+    {
+        "title": "Six of Crows",
+        "author": "Leigh Bardugo (Goodreads Author)",
+        "language": "English",
+        "price": 5.78,
+        "rating": 4.43,
+        "numRatings": 315707
+    },
+    {
+        "title": "Harry Potter Series Box Set",
+        "author": "J.K. Rowling",
+        "language": "English",
+        "price": 77.25,
+        "rating": 4.73,
+        "numRatings": 251756
+    },
+    {
+        "title": "The Origin of Species",
+        "author": "Charles Darwin",
+        "language": "English",
+        "price": 5.58,
+        "rating": 3.98,
+        "numRatings": 99334
+    },
+    {
+        "title": "A Fine Balance",
+        "author": "Rohinton Mistry",
+        "language": "English",
+        "price": 7.31,
+        "rating": 4.35,
+        "numRatings": 129262
+    },
+    {
+        "title": "Daughter of Smoke & Bone",
+        "author": "Laini Taylor (Goodreads Author)",
+        "language": "English",
+        "price": 4.99,
+        "rating": 4.01,
+        "numRatings": 310751
+    },
+    {
+        "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+        "author": "Robert Louis Stevenson, Vladimir Nabokov (Introduction), Mervyn Peake (Illustrator), Théo Varlet (Translation), Patrick Horgan (Narrator), Dan Chaon (Goodreads Author) (Afterword)",
+        "language": "English",
+        "price": 3.35,
+        "rating": 3.82,
+        "numRatings": 384495
+    },
+    {
+        "title": "City of Heavenly Fire",
+        "author": "Cassandra Clare (Goodreads Author)",
+        "language": "English",
+        "price": 8.37,
+        "rating": 4.44,
+        "numRatings": 288767
+    },
+    {
+        "title": "Evermore",
+        "author": "Alyson Noel (Goodreads Author)",
+        "language": "English",
+        "price": 1.45,
+        "rating": 3.59,
+        "numRatings": 262776
+    },
+    {
+        "title": "The Subtle Knife",
+        "author": "Philip Pullman",
+        "language": "English",
+        "price": "",
+        "rating": 4.13,
+        "numRatings": 366084
+    },
+    {
+        "title": "Death of a Salesman",
+        "author": "Arthur Miller",
+        "language": "English",
+        "price": 3.92,
+        "rating": 3.53,
+        "numRatings": 185760
+    },
+    {
+        "title": "11/22/63",
+        "author": "Stephen King (Goodreads Author)",
+        "language": "English",
+        "price": 6.21,
+        "rating": 4.31,
+        "numRatings": 420225
+    },
+    {
+        "title": "The Plague",
+        "author": "Albert Camus, Stuart Gilbert (Translator)",
+        "language": "English",
+        "price": "",
+        "rating": 4.01,
+        "numRatings": 171478
+    },
+    {
+        "title": "Midnight in the Garden of Good and Evil",
+        "author": "John Berendt",
+        "language": "English",
+        "price": 4.43,
+        "rating": 3.92,
+        "numRatings": 223939
+    },
+    {
+        "title": "A Streetcar Named Desire",
+        "author": "Tennessee Williams",
+        "language": "English",
+        "price": 5.26,
+        "rating": 3.98,
+        "numRatings": 261257
+    },
+    {
+        "title": "Infinite Jest",
+        "author": "David Foster Wallace",
+        "language": "English",
+        "price": 10.18,
+        "rating": 4.28,
+        "numRatings": 74301
+    },
+    {
+        "title": "The Prince",
+        "author": "Niccolò Machiavelli, Rufus Goodwin (Translator), Benjamin Martinez (Illustrator)",
+        "language": "English",
+        "price": 5.68,
+        "rating": 3.82,
+        "numRatings": 259962
+    },
+    {
+        "title": "Hamlet",
+        "author": "William Shakespeare, Harold Bloom (Contributor), Rex Gibson (Editor)",
+        "language": "English",
+        "price": 2.2,
+        "rating": 4.02,
+        "numRatings": 730077
+    },
+    {
+        "title": "Faust, First Part",
+        "author": "Johann Wolfgang von Goethe, Peter Salm (Translator)",
+        "language": "English",
+        "price": 6.32,
+        "rating": 3.93,
+        "numRatings": 58269
+    },
+    {
+        "title": "Snow Flower and the Secret Fan",
+        "author": "Lisa See (Goodreads Author)",
+        "language": "English",
+        "price": "",
+        "rating": 4.08,
+        "numRatings": 339423
+    },
+    {
+        "title": "The Remains of the Day",
+        "author": "Kazuo Ishiguro",
+        "language": "English",
+        "price": "",
+        "rating": 4.12,
+        "numRatings": 200137
+    },
+    {
+        "title": "Anna and the French Kiss",
+        "author": "Stephanie Perkins (Goodreads Author)",
+        "language": "English",
+        "price": 3.11,
+        "rating": 4.01,
+        "numRatings": 363864
+    },
+    {
+        "title": "A Feast for Crows",
+        "author": "George R.R. Martin",
+        "language": "English",
+        "price": 5.0,
+        "rating": 4.14,
+        "numRatings": 620916
+    },
+    {
+        "title": "The Angel Experiment",
+        "author": "James Patterson (Goodreads Author)",
+        "language": "English",
+        "price": 3.43,
+        "rating": 4.07,
+        "numRatings": 205771
+    },
+    {
+        "title": "Miss Peregrine's Home for Peculiar Children",
+        "author": "Ransom Riggs",
+        "language": "English",
+        "price": "",
+        "rating": 3.91,
+        "numRatings": 977080
+    },
+    {
+        "title": "Matched",
+        "author": "Ally Condie (Goodreads Author)",
+        "language": "English",
+        "price": 1.64,
+        "rating": 3.66,
+        "numRatings": 653393
+    },
+    {
+        "title": "Flowers in the Attic",
+        "author": "V.C. Andrews",
+        "language": "English",
+        "price": 8.77,
+        "rating": 3.82,
+        "numRatings": 160654
+    },
+    {
+        "title": "The Shipping News",
+        "author": "Annie Proulx",
+        "language": "English",
+        "price": 1.29,
+        "rating": 3.86,
+        "numRatings": 130345
+    },
+    {
+        "title": "Unbroken: A World War II Story of Survival, Resilience and Redemption",
+        "author": "Laura Hillenbrand",
+        "language": "English",
+        "price": 1.15,
+        "rating": 4.36,
+        "numRatings": 767063
+    },
+    {
+        "title": "The Scarlet Pimpernel",
+        "author": "Emmuska Orczy",
+        "language": "English",
+        "price": "",
+        "rating": 4.06,
+        "numRatings": 124259
+    },
+    {
+        "title": "Hopeless",
+        "author": "Colleen Hoover (Goodreads Author)",
+        "language": "English",
+        "price": "",
+        "rating": 4.29,
+        "numRatings": 268053
+    },
+    {
+        "title": "Jonathan Strange & Mr Norrell",
+        "author": "Susanna Clarke",
+        "language": "English",
+        "price": "",
+        "rating": 3.82,
+        "numRatings": 198407
+    },
+    {
+        "title": "The Chosen",
+        "author": "Chaim Potok",
+        "language": "English",
+        "price": 2.0,
+        "rating": 4.04,
+        "numRatings": 85850
+    },
+    {
+        "title": "High Fidelity",
+        "author": "Nick Hornby",
+        "language": "English",
+        "price": 2.58,
+        "rating": 3.93,
+        "numRatings": 173566
+    },
+    {
+        "title": "Blood Meridian, or the Evening Redness in the West",
+        "author": "Cormac McCarthy",
+        "language": "English",
+        "price": "",
+        "rating": 4.17,
+        "numRatings": 107497
+    },
+    {
+        "title": "All the Light We Cannot See",
+        "author": "Anthony Doerr (Goodreads Author)",
+        "language": "English",
+        "price": 4.45,
+        "rating": 4.33,
+        "numRatings": 1024442
+    },
+    {
+        "title": "Houdini Heart",
+        "author": "Ki Longfellow (Goodreads Author)",
+        "language": "English",
+        "price": 4.58,
+        "rating": 4.22,
+        "numRatings": 2053
+    },
+    {
+        "title": "Artemis Fowl",
+        "author": "Eoin Colfer",
+        "language": "English",
+        "price": 4.97,
+        "rating": 3.85,
+        "numRatings": 495987
+    },
+    {
+        "title": "Pippi Longstocking",
+        "author": "Astrid Lindgren, Florence Lamborn (Translator), Louis S. Glanzman (Illustrator)",
+        "language": "English",
+        "price": 6.7,
+        "rating": 4.13,
+        "numRatings": 167879
+    },
+    {
+        "title": "The Tales of Beedle the Bard",
+        "author": "J.K. Rowling",
+        "language": "English",
+        "price": 1.79,
+        "rating": 4.06,
+        "numRatings": 406565
+    },
+    {
+        "title": "The Virgin Suicides",
+        "author": "Jeffrey Eugenides",
+        "language": "English",
+        "price": 2.67,
+        "rating": 3.82,
+        "numRatings": 229018
+    },
+    {
+        "title": "The Reader",
+        "author": "Bernhard Schlink, Carol Brown Janeway (Translator)",
+        "language": "English",
+        "price": 3.16,
+        "rating": 3.76,
+        "numRatings": 170792
+    },
+    {
+        "title": "Nineteen Minutes",
+        "author": "Jodi Picoult (Goodreads Author)",
+        "language": "English",
+        "price": 2.66,
+        "rating": 4.13,
+        "numRatings": 300559
+    },
+    {
+        "title": "The House of Hades",
+        "author": "Rick Riordan (Goodreads Author)",
+        "language": "English",
+        "price": 8.0,
+        "rating": 4.54,
+        "numRatings": 262082
+    },
+    {
+        "title": "Shantaram",
+        "author": "Gregory David Roberts",
+        "language": "English",
+        "price": 5.97,
+        "rating": 4.25,
+        "numRatings": 167687
+    },
+    {
+        "title": "The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America",
+        "author": "Erik Larson (Goodreads Author)",
+        "language": "English",
+        "price": 5.27,
+        "rating": 3.99,
+        "numRatings": 521583
+    },
+    {
+        "title": "Redeeming Love",
+        "author": "Francine Rivers (Goodreads Author)",
+        "language": "English",
+        "price": 3.81,
+        "rating": 4.49,
+        "numRatings": 213071
+    },
+    {
+        "title": "The Age of Innocence",
+        "author": "Edith Wharton, Maureen Howard (Introduction)",
+        "language": "English",
+        "price": 3.77,
+        "rating": 3.95,
+        "numRatings": 139451
+    },
+    {
+        "title": "The Host",
+        "author": "Stephenie Meyer",
+        "language": "English",
+        "price": 3.89,
+        "rating": 3.84,
+        "numRatings": 894942
+    },
+    {
+        "title": "The Lost Symbol",
+        "author": "Dan Brown (Goodreads Author)",
+        "language": "English",
+        "price": 0.85,
+        "rating": 3.71,
+        "numRatings": 521050
+    },
+    {
+        "title": "Neuromancer",
+        "author": "William Gibson",
+        "language": "English",
+        "price": "",
+        "rating": 3.9,
+        "numRatings": 262256
+    },
+    {
+        "title": "Betrayed",
+        "author": "P.C. Cast (Goodreads Author), Kristin Cast (Goodreads Author)",
+        "language": "English",
+        "price": 3.38,
+        "rating": 3.93,
+        "numRatings": 240057
+    },
+    {
+        "title": "Waiting for Godot",
+        "author": "Samuel Beckett",
+        "language": "English",
+        "price": "",
+        "rating": 3.83,
+        "numRatings": 160324
+    },
+    {
+        "title": "The Grapes of Wrath",
+        "author": "John Steinbeck",
+        "language": "English",
+        "price": 27.35,
+        "rating": 3.97,
+        "numRatings": 750113
+    },
+    {
+        "title": "Northanger Abbey",
+        "author": "Jane Austen, Alfred J. Mac Adam (Introduction)",
+        "language": "English",
+        "price": 0.85,
+        "rating": 3.83,
+        "numRatings": 297878
+    },
+    {
+        "title": "The Voyage of the Dawn Treader",
+        "author": "C.S. Lewis, Pauline Baynes (Illustrator)",
+        "language": "English",
+        "price": 7.83,
+        "rating": 4.09,
+        "numRatings": 394867
+    },
+    {
+        "title": "Dubliners",
+        "author": "James Joyce, Jeri Johnson (Editor, Introduction and Notes)",
+        "language": "English",
+        "price": 2.74,
+        "rating": 3.85,
+        "numRatings": 122998
+    },
+    {
+        "title": "Lover Awakened",
+        "author": "J.R. Ward (Goodreads Author)",
+        "language": "English",
+        "price": 2.5,
+        "rating": 4.44,
+        "numRatings": 161481
+    },
+    {
+        "title": "War and Peace",
+        "author": "Leo Tolstoy, Henry Gifford (Editor), Aylmer Maude (Translator), Louise Maude (Translator), Vladimir Levstik (Translator)",
+        "language": "English",
+        "price": "",
+        "rating": 4.12,
+        "numRatings": 264688
+    },
+    {
+        "title": "A Court of Thorns and Roses",
+        "author": "Sarah J. Maas (Goodreads Author)",
+        "language": "English",
+        "price": 18.9,
+        "rating": 4.22,
+        "numRatings": 476270
+    },
+    {
+        "title": "Divine Secrets of the Ya-Ya Sisterhood",
+        "author": "Rebecca Wells (Goodreads Author)",
+        "language": "English",
+        "price": 1.71,
+        "rating": 3.83,
+        "numRatings": 522717
+    },
+    {
+        "title": "The Waste Land",
+        "author": "T.S. Eliot, Michael North (Editor)",
+        "language": "English",
+        "price": 5.26,
+        "rating": 4.11,
+        "numRatings": 42721
+    },
+    {
+        "title": "Untamed",
+        "author": "P.C. Cast (Goodreads Author), Kristin Cast (Goodreads Author)",
+        "language": "English",
+        "price": 2.87,
+        "rating": 3.95,
+        "numRatings": 213569
+    },
+    {
+        "title": "Everything Is Illuminated",
+        "author": "Jonathan Safran Foer (Goodreads Author)",
+        "language": "English",
+        "price": 1.45,
+        "rating": 3.9,
+        "numRatings": 164231
+    },
+    {
+        "title": "A Dance with Dragons",
+        "author": "George R.R. Martin",
+        "language": "English",
+        "price": "",
+        "rating": 4.32,
+        "numRatings": 555900
+    },
+    {
+        "title": "Crown of Midnight",
+        "author": "Sarah J. Maas (Goodreads Author)",
+        "language": "English",
+        "price": 18.19,
+        "rating": 4.42,
+        "numRatings": 338827
+    },
+    {
+        "title": "To the Lighthouse",
+        "author": "Virginia Woolf",
+        "language": "English",
+        "price": "",
+        "rating": 3.78,
+        "numRatings": 133185
+    },
+    {
+        "title": "I Know Why the Caged Bird Sings",
+        "author": "Maya Angelou",
+        "language": "English",
+        "price": 4.64,
+        "rating": 4.24,
+        "numRatings": 409104
+    },
+    {
+        "title": "I, Robot",
+        "author": "Isaac Asimov",
+        "language": "English",
+        "price": 8.99,
+        "rating": 4.2,
+        "numRatings": 275620
+    },
+    {
+        "title": "The Twilight Collection",
+        "author": "Stephenie Meyer",
+        "language": "English",
+        "price": 28.05,
+        "rating": 3.79,
+        "numRatings": 43735
+    },
+    {
+        "title": "The Pearl",
+        "author": "John Steinbeck",
+        "language": "English",
+        "price": 12.38,
+        "rating": 3.48,
+        "numRatings": 187901
+    },
+    {
+        "title": "The One",
+        "author": "Kiera Cass (Goodreads Author)",
+        "language": "English",
+        "price": 3.39,
+        "rating": 4.2,
+        "numRatings": 380344
+    },
+    {
+        "title": "The Jungle",
+        "author": "Upton Sinclair, Earl Lee (Goodreads Author) (Foreword), Kathleen DeGrave (Introduction)",
+        "language": "English",
+        "price": 2.94,
+        "rating": 3.75,
+        "numRatings": 128835
+    },
+    {
+        "title": "Carrie",
+        "author": "Stephen King (Goodreads Author)",
+        "language": "English",
+        "price": 7.01,
+        "rating": 3.96,
+        "numRatings": 520467
+    },
+    {
+        "title": "Snow Falling on Cedars",
+        "author": "David Guterson",
+        "language": "English",
+        "price": 1.79,
+        "rating": 3.84,
+        "numRatings": 166026
+    },
+    {
+        "title": "Voyager",
+        "author": "Diana Gabaldon (Goodreads Author)",
+        "language": "English",
+        "price": 5.97,
+        "rating": 4.37,
+        "numRatings": 257178
+    },
+    {
+        "title": "I, Claudius",
+        "author": "Robert Graves",
+        "language": "English",
+        "price": 3.38,
+        "rating": 4.23,
+        "numRatings": 56652
+    },
+    {
+        "title": "Heir of Fire",
+        "author": "Sarah J. Maas (Goodreads Author)",
+        "language": "English",
+        "price": 8.99,
+        "rating": 4.48,
+        "numRatings": 279699
+    },
+    {
+        "title": "Me Talk Pretty One Day",
+        "author": "David Sedaris",
+        "language": "English",
+        "price": 1.44,
+        "rating": 3.99,
+        "numRatings": 617998
+    },
+    {
+        "title": "Chosen",
+        "author": "P.C. Cast (Goodreads Author), Kristin Cast (Goodreads Author)",
+        "language": "English",
+        "price": 1.79,
+        "rating": 3.91,
+        "numRatings": 222066
+    },
+    {
+        "title": "A Room with a View",
+        "author": "E.M. Forster",
+        "language": "English",
+        "price": 9.24,
+        "rating": 3.91,
+        "numRatings": 151892
+    },
+    {
+        "title": "Bleak House",
+        "author": "Charles Dickens, Nicola Bradbury (Annotations), Hablot Knight Browne (Illustrations)",
+        "language": "English",
+        "price": 5.51,
+        "rating": 4.0,
+        "numRatings": 97024
+    },
+    {
+        "title": "The Republic",
+        "author": "Plato, Desmond Lee (Translator), Maria Helena da Rocha Pereira (Translator), Benjamin Jowett (Translator)",
+        "language": "English",
+        "price": 2.85,
+        "rating": 3.94,
+        "numRatings": 170877
+    },
+    {
+        "title": "The Last Battle",
+        "author": "C.S. Lewis",
+        "language": "English",
+        "price": 1.79,
+        "rating": 4.02,
+        "numRatings": 221884
+    },
+    {
+        "title": "The Exorcist",
+        "author": "William Peter Blatty",
+        "language": "English",
+        "price": 6.49,
+        "rating": 4.18,
+        "numRatings": 180610
+    },
+    {
+        "title": "The Elephant Tree",
+        "author": "R.D. Ronald",
+        "language": "English",
+        "price": 5.42,
+        "rating": 4.14,
+        "numRatings": 62111
+    },
+    {
+        "title": "Coraline",
+        "author": "Neil Gaiman (Goodreads Author), Dave McKean (illustrator)",
+        "language": "English",
+        "price": 11.55,
+        "rating": 4.06,
+        "numRatings": 481547
+    },
+    {
+        "title": "Demian: Die Geschichte von Emil Sinclairs Jugend",
+        "author": "Hermann Hesse, Thomas Mann (Introduction)",
+        "language": "German",
+        "price": 3.56,
+        "rating": 4.13,
+        "numRatings": 73940
+    },
+    {
+        "title": "The 5th Wave",
+        "author": "Rick Yancey",
+        "language": "English",
+        "price": 1.64,
+        "rating": 4.04,
+        "numRatings": 388363
+    },
+    {
+        "title": "The Iron King",
+        "author": "Julie Kagawa (Goodreads Author)",
+        "language": "English",
+        "price": 3.81,
+        "rating": 3.9,
+        "numRatings": 191982
+    },
+    {
+        "title": "Quantum Roots II: Worm Holes",
+        "author": "Kyle Keyes",
+        "language": "English",
+        "price": 14.36,
+        "rating": 4.34,
+        "numRatings": 9170
+    },
+    {
+        "title": "Aristotle and Dante Discover the Secrets of the Universe",
+        "author": "Benjamin Alire Sáenz (Goodreads Author)",
+        "language": "English",
+        "price": 19.17,
+        "rating": 4.33,
+        "numRatings": 259916
+    },
+    {
+        "title": "The Arabian Nights",
+        "author": "Anonymous, Richard Francis Burton (Translator), A.S. Byatt (Introduction)",
+        "language": "English",
+        "price": 2.43,
+        "rating": 4.04,
+        "numRatings": 61139
+    }
+]
